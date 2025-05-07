@@ -1,0 +1,1169 @@
+﻿match_no,date,season,competition,stage,home_or_away,home_team,away_team,win_or_loss,goals,assists,mins_played,abs_rating,shots,shots_on_target,key_passes,motm,final_remarks,Name,Team
+r_1168,2023-06-20,22/23,Euros Qualifier,,A,Iceland,Portugal,win,1,0,90,7.04,3.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_1167,2023-06-17,22/23,Euros Qualifier,,H,Portugal,Bosnia and Herzegovina,win,0,0,90,7.16,0.0,0.0,2.0,No,,Ronaldo,Portugal
+r_1166,2023-05-27,22/23,Saudi Pro League,,A,Al-Ettifaq,Al Nassr,draw,0,0,84,7.5,8.0,4.0,2.0,No,,Ronaldo,Al Nassr
+r_1165,2023-05-23,22/23,Saudi Pro League,,H,Al Nassr,Al Shabab,win,1,0,90,6.9,4.0,1.0,1.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Al Nassr
+r_1164,2023-05-16,22/23,Saudi Pro League,,A,Al Taee,Al Nassr,win,1,0,90,7.3,5.0,3.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Al Nassr
+r_1163,2023-05-08,22/23,Saudi Pro League,,H,Al Nassr,Al-Khaleej,draw,0,0,90,8.0,8.0,2.0,2.0,Yes,,Ronaldo,Al Nassr
+r_1162,2023-04-28,22/23,Saudi Pro League,,H,Al Nassr,Al-Raed,win,1,0,90,7.4,4.0,2.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Al Nassr
+r_1161,2023-04-24,22/23,Saudi King Cup,SF,H,Al Nassr,Al-Wehda,loss,0,0,90,6.9,6.0,2.0,1.0,No,,Ronaldo,Al Nassr
+r_1160,2023-04-18,22/23,Saudi Pro League,,A,Al Hilal,Al Nassr,loss,0,0,90,6.9,4.0,0.0,0.0,No,,Ronaldo,Al Nassr
+r_1159,2023-04-09,22/23,Saudi Pro League,,A,Al Feiha,Al Nassr,draw,0,0,90,6.6,4.0,1.0,0.0,No,,Ronaldo,Al Nassr
+r_1158,2023-04-04,22/23,Saudi Pro League,,A,Al-Adalah,Al Nassr,win,2,0,90,8.2,2.0,2.0,0.0,No,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Al Nassr
+r_1157,2023-03-26,22/23,Euros Qualifier,,A,Luxembourg,Portugal,win,2,0,64,8.74,3.0,2.0,1.0,Yes,"2 inside box goal, 2 left foot goal",Ronaldo,Portugal
+r_1156,2023-03-23,22/23,Euros Qualifier,,H,Portugal,Liechtenstein,win,2,0,78,8.49,6.0,3.0,0.0,No,"1 pen goal, 1 free kick goal, 2 right foot goal",Ronaldo,Portugal
+r_1155,2023-03-18,22/23,Saudi Pro League,,H,Al Nassr,Abha,win,1,0,90,7.3,4.0,2.0,1.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Al Nassr
+r_1154,2023-03-14,22/23,Saudi King Cup,QF,H,Al Nassr,Abha,win,0,0,87,7.1,5.0,0.0,1.0,No,,Ronaldo,Al Nassr
+r_1153,2023-03-09,22/23,Saudi Pro League,,A,Al-Ittihad,Al Nassr,loss,0,0,90,7.0,3.0,1.0,0.0,No,,Ronaldo,Al Nassr
+r_1152,2023-03-03,22/23,Saudi Pro League,,H,Al Nassr,Al-Batin,win,0,0,90,6.9,7.0,1.0,0.0,No,,Ronaldo,Al Nassr
+r_1151,2023-02-25,22/23,Saudi Pro League,,A,Damac,Al Nassr,win,3,0,90,9.1,6.0,3.0,3.0,Yes,"1 pen goal, 1 inside box goal, 1 outside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Al Nassr
+r_1150,2023-02-17,22/23,Saudi Pro League,,H,Al Nassr,Al-Taawoun,win,0,2,90,8.4,4.0,3.0,4.0,Yes,,Ronaldo,Al Nassr
+r_1149,2023-02-09,22/23,Saudi Pro League,,A,Al-Wehda,Al Nassr,win,4,0,90,9.7,9.0,6.0,2.0,Yes,"1 pen goal, 3 inside box goal, 1 left foot goal, 3 right foot goal",Ronaldo,Al Nassr
+r_1148,2023-02-03,22/23,Saudi Pro League,,A,Al Fateh,Al Nassr,draw,1,0,90,7.1,4.0,1.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Al Nassr
+r_1147,2023-01-26,22/23,Saudi Super Cup,SF,N,Al Nassr,Al-Ittihad,loss,0,0,90,6.9,2.0,1.0,0.0,No,,Ronaldo,Al Nassr
+r_1146,2023-01-22,22/23,Saudi Pro League,,H,Al Nassr,Al-Ettifaq,win,0,0,90,6.9,4.0,1.0,2.0,No,,Ronaldo,Al Nassr
+r_1145,2022-12-10,22/23,World Cup,QF,N,Portugal,Morocco,loss,0,0,39,6.24,1.0,1.0,1.0,No,,Ronaldo,Portugal
+r_1144,2022-12-06,22/23,World Cup,R16,N,Portugal,Switzerland,win,0,0,16,6.07,1.0,0.0,0.0,No,,Ronaldo,Portugal
+r_1143,2022-12-02,22/23,World Cup,Group,N,Portugal,South Korea,loss,0,0,65,5.11,2.0,0.0,0.0,No,,Ronaldo,Portugal
+r_1142,2022-11-28,22/23,World Cup,Group,N,Portugal,Uruguay,win,0,0,81,6.65,3.0,0.0,3.0,No,,Ronaldo,Portugal
+r_1141,2022-11-24,22/23,World Cup,Group,N,Portugal,Ghana,win,1,0,87,7.36,4.0,2.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Portugal
+r_1140,2022-11-06,22/23,Premier League,,A,Aston Villa,Manchester United,loss,0,0,90,6.01,3.0,1.0,0.0,No,,Ronaldo,Manchester United
+r_1139,2022-11-03,22/23,Europa League,Group,A,Real Sociedad,Manchester United,win,0,1,90,6.92,2.0,0.0,1.0,No,,Ronaldo,Manchester United
+r_1138,2022-10-30,22/23,Premier League,,H,Manchester United,West Ham United,win,0,0,90,6.9,6.0,1.0,0.0,No,,Ronaldo,Manchester United
+r_1137,2022-10-27,22/23,Europa League,Group,H,Manchester United,FC Sheriff,win,1,0,90,7.79,7.0,3.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_1136,2022-10-16,22/23,Premier League,,H,Manchester United,Newcastle United,draw,0,0,72,5.87,1.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1135,2022-10-13,22/23,Europa League,Group,H,Manchester United,Omonia,win,0,0,90,6.77,7.0,2.0,1.0,No,,Ronaldo,Manchester United
+r_1134,2022-10-09,22/23,Premier League,,A,Everton,Manchester United,win,1,0,61,7.77,3.0,2.0,1.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_1133,2022-10-06,22/23,Europa League,Group,A,Omonia,Manchester United,win,0,1,90,7.62,8.0,1.0,3.0,No,,Ronaldo,Manchester United
+r_1132,2022-09-27,22/23,Nations League,Group,H,Portugal,Spain,loss,0,0,90,6.27,2.0,2.0,0.0,No,,Ronaldo,Portugal
+r_1131,2022-09-24,22/23,Nations League,Group,A,Czech Republic,Portugal,win,0,1,90,6.76,4.0,0.0,3.0,No,,Ronaldo,Portugal
+r_1130,2022-09-15,22/23,Europa League,Group,A,FC Sheriff,Manchester United,win,1,0,81,6.83,3.0,1.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_1129,2022-09-08,22/23,Europa League,Group,H,Manchester United,Real Sociedad,loss,0,0,90,5.83,4.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1128,2022-09-04,22/23,Premier League,,H,Manchester United,Arsenal,win,0,0,32,6.25,2.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1127,2022-09-01,22/23,Premier League,,A,Leicester City,Manchester United,win,0,0,22,5.98,2.0,0.0,1.0,No,,Ronaldo,Manchester United
+r_1126,2022-08-27,22/23,Premier League,,A,Southampton,Manchester United,win,0,0,22,6.11,0.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1125,2022-08-22,22/23,Premier League,,H,Manchester United,Liverpool,win,0,0,4,6.12,1.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1124,2022-08-13,22/23,Premier League,,A,Brentford,Manchester United,loss,0,0,90,6.5,6.0,2.0,3.0,No,,Ronaldo,Manchester United
+r_1123,2022-08-07,22/23,Premier League,,H,Manchester United,Brighton,loss,0,0,37,6.28,1.0,0.0,1.0,No,,Ronaldo,Manchester United
+r_1122,2022-06-09,21/22,Nations League,Group,H,Portugal,Czech Republic,win,0,0,90,7.09,3.0,2.0,0.0,No,,Ronaldo,Portugal
+r_1121,2022-06-05,21/22,Nations League,Group,H,Portugal,Switzerland,win,2,0,90,8.88,7.0,5.0,2.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Portugal
+r_1120,2022-06-02,21/22,Nations League,Group,A,Spain,Portugal,draw,0,0,28,6.07,0.0,0.0,0.0,No,,Ronaldo,Portugal
+r_1119,2022-05-07,21/22,Premier League,,A,Brighton,Manchester United,loss,0,0,90,5.55,5.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1118,2022-05-02,21/22,Premier League,,H,Manchester United,Brentford,win,1,0,90,8.17,2.0,2.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_1117,2022-04-28,21/22,Premier League,,H,Manchester United,Chelsea,draw,1,0,90,7.37,3.0,1.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1116,2022-04-23,21/22,Premier League,,A,Arsenal,Manchester United,loss,1,0,90,7.09,3.0,1.0,2.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_1115,2022-04-16,21/22,Premier League,,H,Manchester United,Norwich City,win,3,0,90,9.67,8.0,5.0,1.0,Yes,"1 free kick goal, 2 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_1114,2022-04-09,21/22,Premier League,,A,Everton,Manchester United,loss,0,0,90,6.1,2.0,1.0,1.0,No,,Ronaldo,Manchester United
+r_1113,2022-03-29,21/22,World Cup Qualifier,Play-off,H,Portugal,North Macedonia,win,0,1,90,7.21,3.0,0.0,1.0,No,,Ronaldo,Portugal
+r_1112,2022-03-24,21/22,World Cup Qualifier,Play-off,H,Portugal,Turkey,win,0,0,90,6.93,5.0,2.0,0.0,No,,Ronaldo,Portugal
+r_1111,2022-03-15,21/22,Champs League,R16,H,Manchester United,Atletico Madrid,loss,0,0,90,6.44,0.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1110,2022-03-12,21/22,Premier League,,H,Manchester United,Tottenham Hotspur,win,3,0,82,9.95,8.0,5.0,0.0,Yes,"2 inside box goal, 1 outside box goal, 2 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_1109,2022-02-26,21/22,Premier League,,H,Manchester United,Watford,draw,0,0,90,7.02,4.0,1.0,2.0,No,,Ronaldo,Manchester United
+r_1108,2022-02-23,21/22,Champs League,R16,A,Atletico Madrid,Manchester United,draw,0,0,90,6.47,2.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1107,2022-02-20,21/22,Premier League,,A,Leeds United,Manchester United,win,0,0,85,6.5,2.0,1.0,1.0,No,,Ronaldo,Manchester United
+r_1106,2022-02-15,21/22,Premier League,,H,Manchester United,Brighton,win,1,0,90,8.11,5.0,2.0,3.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1105,2022-02-12,21/22,Premier League,,H,Manchester United,Southampton,draw,0,0,90,6.86,2.0,2.0,1.0,No,,Ronaldo,Manchester United
+r_1104,2022-02-08,21/22,Premier League,,A,Burnley,Manchester United,draw,0,0,22,6.08,3.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1103,2022-02-04,21/22,FA Cup,R32,H,Manchester United,Middlesbrough,loss,0,0,120,7.11,10.0,3.0,2.0,No,1 pen missed,Ronaldo,Manchester United
+r_1102,2022-01-22,21/22,Premier League,,H,Manchester United,West Ham United,win,0,0,90,6.75,3.0,1.0,2.0,No,,Ronaldo,Manchester United
+r_1101,2022-01-19,21/22,Premier League,,A,Brentford,Manchester United,win,0,0,71,7.08,3.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1100,2022-01-03,21/22,Premier League,,H,Manchester United,Wolverhampton Wanderers,loss,0,0,90,6.33,2.0,1.0,1.0,No,,Ronaldo,Manchester United
+r_1099,2021-12-30,21/22,Premier League,,H,Manchester United,Burnley,win,1,1,90,7.46,7.0,1.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1098,2021-12-27,21/22,Premier League,,A,Newcastle United,Manchester United,draw,0,0,90,6.33,2.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1097,2021-12-11,21/22,Premier League,,A,Norwich City,Manchester United,win,1,0,90,7.33,3.0,2.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_1096,2021-12-05,21/22,Premier League,,H,Manchester United,Crystal Palace,win,0,0,90,7.15,5.0,1.0,1.0,No,,Ronaldo,Manchester United
+r_1095,2021-12-02,21/22,Premier League,,H,Manchester United,Arsenal,win,2,0,89,8.49,6.0,4.0,0.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_1094,2021-11-28,21/22,Premier League,,A,Chelsea,Manchester United,draw,0,0,26,5.77,0.0,0.0,0.0,No,,Ronaldo,Manchester United
+r_1093,2021-11-23,21/22,Champs League,Group,A,Villarreal,Manchester United,win,1,0,90,8.08,4.0,2.0,1.0,Yes,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1092,2021-11-20,21/22,Premier League,,A,Watford,Manchester United,loss,0,1,90,7.18,4.0,1.0,2.0,No,,Ronaldo,Manchester United
+r_1091,2021-11-14,21/22,World Cup Qualifier,,H,Portugal,Serbia,loss,0,0,90,6.59,3.0,0.0,0.0,No,,Ronaldo,Portugal
+r_1090,2021-11-11,21/22,World Cup Qualifier,,A,Republic of Ireland,Portugal,draw,0,0,90,6.56,5.0,1.0,2.0,No,,Ronaldo,Portugal
+r_1089,2021-11-06,21/22,Premier League,,H,Manchester United,Manchester City,loss,0,0,90,6.07,1.0,1.0,0.0,No,,Ronaldo,Manchester United
+r_1088,2021-11-02,21/22,Champs League,Group,A,Atalanta,Manchester United,draw,2,0,90,8.9,4.0,3.0,2.0,Yes,"1 inside box goal, 1 outside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_1087,2021-10-30,21/22,Premier League,,A,Tottenham Hotspur,Manchester United,win,1,1,71,8.53,2.0,1.0,2.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1086,2021-10-24,21/22,Premier League,,H,Manchester United,Liverpool,loss,0,0,90,5.65,4.0,1.0,0.0,No,,Ronaldo,Manchester United
+r_1085,2021-10-20,21/22,Champs League,Group,H,Manchester United,Atalanta,win,1,0,90,8.07,7.0,4.0,3.0,No,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_1084,2021-10-16,21/22,Premier League,,A,Leicester City,Manchester United,loss,0,0,90,6.38,3.0,1.0,1.0,No,,Ronaldo,Manchester United
+r_1083,2021-10-12,21/22,World Cup Qualifier,,H,Portugal,Luxembourg,win,3,0,90,9.9,7.0,5.0,2.0,Yes,"2 pen goal, 1 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Portugal
+r_1082,2021-10-09,21/22,International Friendly,,H,Portugal,Qatar,win,1,0,45,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_1081,2021-10-02,21/22,Premier League,,H,Manchester United,Everton,draw,0,0,34,6.04,1.0,0.0,1.0,No,,Ronaldo,Manchester United
+r_1080,2021-09-29,21/22,Champs League,Group,H,Manchester United,Villarreal,win,1,0,90,7.4,3.0,1.0,3.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1079,2021-09-25,21/22,Premier League,,H,Manchester United,Aston Villa,loss,0,0,90,6.26,4.0,0.0,1.0,No,,Ronaldo,Manchester United
+r_1078,2021-09-19,21/22,Premier League,,A,West Ham United,Manchester United,win,1,0,90,7.43,7.0,5.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1077,2021-09-14,21/22,Champs League,Group,A,Young Boys,Manchester United,loss,1,0,72,7.31,2.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_1076,2021-09-11,21/22,Premier League,,H,Manchester United,Newcastle United,win,2,0,90,8.61,6.0,2.0,1.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_1075,2021-09-01,21/22,World Cup Qualifier,,H,Portugal,Republic of Ireland,win,2,0,90,8.32,8.0,4.0,1.0,Yes,"2 inside box goal, 2 header goal, 1 pen missed",Ronaldo,Portugal
+r_1074,2021-08-22,21/22,Serie A,,A,Udinese,Juventus,draw,0,0,30,5.98,1.0,0.0,1.0,No,,Ronaldo,Juventus
+r_1073,2021-06-27,20/21,UEFA Euros,R16,N,Portugal,Belgium,loss,0,0,90,7.51,4.0,1.0,3.0,No,,Ronaldo,Portugal
+r_1072,2021-06-23,20/21,UEFA Euros,Group,N,Portugal,France,draw,2,0,90,7.52,5.0,3.0,0.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Portugal
+r_1071,2021-06-19,20/21,UEFA Euros,Group,A,Germany,Portugal,loss,1,1,90,8.53,2.0,1.0,2.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_1070,2021-06-15,20/21,UEFA Euros,Group,A,Hungary,Portugal,win,2,0,90,8.14,4.0,2.0,0.0,Yes,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_1069,2021-06-09,20/21,International Friendly,,H,Portugal,Israel,win,1,0,71,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_1068,2021-06-04,20/21,International Friendly,,A,Spain,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_1067,2021-05-19,20/21,Coppa Italia,Final,N,Juventus,Atalanta,win,0,0,90,7.5,6.0,2.0,1.0,No,,Ronaldo,Juventus
+r_1066,2021-05-15,20/21,Serie A,,H,Juventus,Inter Milan,win,1,0,70,7.05,2.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal, 1 pen missed",Ronaldo,Juventus
+r_1065,2021-05-12,20/21,Serie A,,A,Sassuolo,Juventus,win,1,0,90,8.71,4.0,2.0,2.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1064,2021-05-09,20/21,Serie A,,H,Juventus,AC Milan,loss,0,0,90,5.9,2.0,0.0,1.0,No,,Ronaldo,Juventus
+r_1063,2021-05-02,20/21,Serie A,,A,Udinese,Juventus,win,2,0,90,7.59,6.0,3.0,1.0,Yes,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Juventus
+r_1062,2021-04-25,20/21,Serie A,,A,Fiorentina,Juventus,draw,0,0,90,6.75,5.0,0.0,1.0,No,,Ronaldo,Juventus
+r_1061,2021-04-21,20/21,Serie A,,H,Juventus,Parma,win,0,0,90,6.42,5.0,1.0,0.0,No,,Ronaldo,Juventus
+r_1060,2021-04-11,20/21,Serie A,,H,Juventus,Genoa,win,0,0,90,8.07,6.0,2.0,0.0,Yes,,Ronaldo,Juventus
+r_1059,2021-04-07,20/21,Serie A,,H,Juventus,Napoli,win,1,0,90,7.52,2.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1058,2021-04-03,20/21,Serie A,,A,Torino,Juventus,draw,1,0,90,7.95,8.0,3.0,4.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_1057,2021-03-30,20/21,World Cup Qualifier,,A,Luxembourg,Portugal,win,1,0,90,7.67,7.0,4.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_1056,2021-03-27,20/21,World Cup Qualifier,,A,Serbia,Portugal,draw,0,0,90,6.48,6.0,1.0,1.0,No,,Ronaldo,Portugal
+r_1055,2021-03-24,20/21,World Cup Qualifier,,H,Portugal,Azerbaijan,win,0,0,90,7.24,8.0,3.0,3.0,No,,Ronaldo,Portugal
+r_1054,2021-03-21,20/21,Serie A,,H,Juventus,Benevento,loss,0,0,90,7.06,9.0,4.0,0.0,No,,Ronaldo,Juventus
+r_1053,2021-03-14,20/21,Serie A,,A,Cagliari,Juventus,win,3,0,90,9.6,6.0,4.0,1.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Juventus
+r_1052,2021-03-09,20/21,Champs League,R16,H,Juventus,FC Porto,win,0,1,120,7.41,5.0,2.0,1.0,No,,Ronaldo,Juventus
+r_1051,2021-03-06,20/21,Serie A,,H,Juventus,Lazio,win,0,0,21,5.85,0.0,0.0,0.0,No,,Ronaldo,Juventus
+r_1050,2021-03-02,20/21,Serie A,,H,Juventus,Spezia,win,1,0,90,8.47,7.0,3.0,1.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1049,2021-02-27,20/21,Serie A,,A,Verona,Juventus,draw,1,0,90,7.48,7.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1048,2021-02-22,20/21,Serie A,,H,Juventus,Crotone,win,2,0,90,8.18,11.0,4.0,1.0,No,"2 inside box goal, 2 header goal",Ronaldo,Juventus
+r_1047,2021-02-17,20/21,Champs League,R16,A,FC Porto,Juventus,loss,0,0,90,6.65,1.0,1.0,2.0,No,,Ronaldo,Juventus
+r_1046,2021-02-13,20/21,Serie A,,A,Napoli,Juventus,loss,0,0,90,6.81,9.0,4.0,0.0,No,,Ronaldo,Juventus
+r_1045,2021-02-09,20/21,Coppa Italia,SF,H,Juventus,Inter Milan,draw,0,0,90,7.1,7.0,3.0,1.0,No,,Ronaldo,Juventus
+r_1044,2021-02-06,20/21,Serie A,,H,Juventus,Roma,win,1,0,90,7.54,3.0,2.0,0.0,Yes,"1 outside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1043,2021-02-02,20/21,Coppa Italia,SF,A,Inter Milan,Juventus,win,2,0,76,8.3,3.0,2.0,0.0,Yes,"1 pen goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_1042,2021-01-30,20/21,Serie A,,A,Sampdoria,Juventus,win,0,0,90,6.75,5.0,1.0,0.0,No,,Ronaldo,Juventus
+r_1041,2021-01-24,20/21,Serie A,,H,Juventus,Bologna,win,0,1,90,7.64,5.0,3.0,2.0,No,,Ronaldo,Juventus
+r_1040,2021-01-20,20/21,Supercoppa Italiana,Final,N,Juventus,Napoli,win,1,0,90,7.87,6.0,1.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1039,2021-01-17,20/21,Serie A,,A,Inter Milan,Juventus,loss,0,0,90,6.46,3.0,1.0,0.0,No,,Ronaldo,Juventus
+r_1038,2021-01-13,20/21,Coppa Italia,R16,H,Juventus,Genoa,win,0,0,32,6.9,1.0,0.0,1.0,No,,Ronaldo,Juventus
+r_1037,2021-01-10,20/21,Serie A,,H,Juventus,Sassuolo,win,1,0,90,8.09,6.0,3.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1036,2021-01-06,20/21,Serie A,,A,AC Milan,Juventus,win,0,0,90,7.56,2.0,0.0,3.0,No,,Ronaldo,Juventus
+r_1035,2021-01-03,20/21,Serie A,,H,Juventus,Udinese,win,2,1,90,9.82,4.0,2.0,2.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_1034,2020-12-22,20/21,Serie A,,H,Juventus,Fiorentina,loss,0,0,90,7.59,6.0,1.0,3.0,No,,Ronaldo,Juventus
+r_1033,2020-12-19,20/21,Serie A,,A,Parma,Juventus,win,2,0,82,9.0,5.0,2.0,2.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Juventus
+r_1032,2020-12-16,20/21,Serie A,,H,Juventus,Atalanta,draw,0,0,90,6.07,3.0,1.0,2.0,No,1 pen missed,Ronaldo,Juventus
+r_1031,2020-12-13,20/21,Serie A,,A,Genoa,Juventus,win,2,0,90,7.85,8.0,5.0,0.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Juventus
+r_1030,2020-12-08,20/21,Champs League,Group,A,Barcelona,Juventus,win,2,0,90,8.29,4.0,3.0,1.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Juventus
+r_1029,2020-12-05,20/21,Serie A,,H,Juventus,Torino,win,0,0,90,6.65,3.0,0.0,1.0,No,,Ronaldo,Juventus
+r_1028,2020-12-02,20/21,Champs League,Group,H,Juventus,Dynamo Kyiv,win,1,0,90,8.64,6.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1027,2020-11-24,20/21,Champs League,Group,H,Juventus,Ferencvaros,win,1,0,90,7.84,2.0,1.0,2.0,No,"1 outside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1026,2020-11-21,20/21,Serie A,,H,Juventus,Cagliari,win,2,0,90,9.09,5.0,2.0,3.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Juventus
+r_1025,2020-11-17,20/21,Nations League,Group,A,Croatia,Portugal,win,0,0,90,6.84,2.0,1.0,2.0,No,,Ronaldo,Portugal
+r_1024,2020-11-14,20/21,Nations League,Group,H,Portugal,France,loss,0,0,90,6.53,6.0,1.0,1.0,No,,Ronaldo,Portugal
+r_1023,2020-11-11,20/21,International Friendly,,H,Portugal,Andorra,win,1,1,45,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_1022,2020-11-08,20/21,Serie A,,A,Lazio,Juventus,draw,1,0,76,7.8,5.0,3.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1021,2020-11-04,20/21,Champs League,Group,A,Ferencvaros,Juventus,win,0,1,90,7.6,5.0,2.0,2.0,No,,Ronaldo,Juventus
+r_1020,2020-11-01,20/21,Serie A,,A,Spezia,Juventus,win,2,0,34,7.78,2.0,2.0,0.0,No,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Juventus
+r_1019,2020-10-11,20/21,Nations League,Group,A,France,Portugal,draw,0,0,90,6.21,3.0,1.0,1.0,No,,Ronaldo,Portugal
+r_1018,2020-10-07,20/21,International Friendly,,H,Portugal,Spain,draw,0,0,73,,,,,,,Ronaldo,Portugal
+r_1017,2020-09-27,20/21,Serie A,,A,Roma,Juventus,draw,2,0,90,7.63,4.0,3.0,0.0,No,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Juventus
+r_1016,2020-09-20,20/21,Serie A,,H,Juventus,Sampdoria,win,1,1,90,8.53,10.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1015,2020-09-08,20/21,Nations League,Group,A,Sweden,Portugal,win,2,0,81,8.88,7.0,5.0,0.0,Yes,"1 free kick goal, 1 outside box goal, 2 right foot goal",Ronaldo,Portugal
+r_1014,2020-08-07,19/20,Champs League,R16,H,Juventus,Lyon,win,2,0,90,8.16,9.0,3.0,1.0,Yes,"1 pen goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_1013,2020-07-29,19/20,Serie A,,A,Cagliari,Juventus,loss,0,0,90,6.73,10.0,2.0,3.0,No,,Ronaldo,Juventus
+r_1012,2020-07-26,19/20,Serie A,,H,Juventus,Sampdoria,win,1,0,90,7.28,6.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal, 1 pen missed",Ronaldo,Juventus
+r_1011,2020-07-23,19/20,Serie A,,A,Udinese,Juventus,loss,0,0,90,6.57,7.0,2.0,1.0,No,,Ronaldo,Juventus
+r_1010,2020-07-20,19/20,Serie A,,H,Juventus,Lazio,win,2,0,90,8.76,11.0,4.0,1.0,No,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_1009,2020-07-15,19/20,Serie A,,A,Sassuolo,Juventus,draw,0,0,90,6.53,10.0,2.0,1.0,No,,Ronaldo,Juventus
+r_1008,2020-07-11,19/20,Serie A,,H,Juventus,Atalanta,draw,2,0,90,7.33,5.0,3.0,0.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Juventus
+r_1007,2020-07-07,19/20,Serie A,,A,AC Milan,Juventus,loss,1,0,90,7.26,4.0,1.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_1006,2020-07-04,19/20,Serie A,,H,Juventus,Torino,win,1,1,90,8.87,6.0,2.0,3.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Juventus
+r_1005,2020-06-30,19/20,Serie A,,A,Genoa,Juventus,win,1,0,74,8.63,6.0,4.0,0.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Juventus
+r_1004,2020-06-26,19/20,Serie A,,H,Juventus,Lecce,win,1,1,90,8.33,7.0,2.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_1003,2020-06-22,19/20,Serie A,,A,Bologna,Juventus,win,1,0,90,7.83,6.0,2.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_1002,2020-06-17,19/20,Coppa Italia,Final,N,Juventus,Napoli,loss,0,0,90,7.2,3.0,1.0,2.0,No,,Ronaldo,Juventus
+r_1001,2020-06-12,19/20,Coppa Italia,SF,H,Juventus,AC Milan,draw,0,0,90,6.54,9.0,2.0,2.0,No,1 pen missed,Ronaldo,Juventus
+r_1000,2020-03-08,19/20,Serie A,,H,Juventus,Inter Milan,win,0,1,90,7.51,9.0,1.0,3.0,No,,Ronaldo,Juventus
+r_999,2020-02-26,19/20,Champs League,R16,A,Lyon,Juventus,loss,0,0,90,5.99,4.0,0.0,0.0,No,,Ronaldo,Juventus
+r_998,2020-02-22,19/20,Serie A,,A,SPAL,Juventus,win,1,0,90,8.18,9.0,4.0,0.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_997,2020-02-13,19/20,Coppa Italia,SF,A,AC Milan,Juventus,draw,1,0,90,7.43,4.0,1.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_996,2020-02-08,19/20,Serie A,,A,Verona,Juventus,loss,1,0,90,7.94,7.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_995,2020-02-02,19/20,Serie A,,H,Juventus,Fiorentina,win,2,0,90,8.44,4.0,2.0,2.0,Yes,"2 pen goal, 2 right foot goal",Ronaldo,Juventus
+r_994,2020-01-26,19/20,Serie A,,A,Napoli,Juventus,loss,1,0,90,7.22,3.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_993,2020-01-22,19/20,Coppa Italia,QF,H,Juventus,Roma,win,1,0,90,7.7,4.0,1.0,2.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_992,2020-01-19,19/20,Serie A,,H,Juventus,Parma,win,2,0,90,9.05,8.0,4.0,4.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Juventus
+r_991,2020-01-12,19/20,Serie A,,A,Roma,Juventus,win,1,0,90,7.44,3.0,2.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_990,2020-01-06,19/20,Serie A,,H,Juventus,Cagliari,win,3,1,90,10.0,8.0,4.0,2.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Juventus
+r_989,2019-12-22,19/20,Supercoppa Italiana,Final,N,Juventus,Lazio,loss,0,0,90,7.32,5.0,1.0,1.0,No,,Ronaldo,Juventus
+r_988,2019-12-18,19/20,Serie A,,A,Sampdoria,Juventus,win,1,0,90,8.34,4.0,2.0,0.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_987,2019-12-15,19/20,Serie A,,H,Juventus,Udinese,win,2,0,90,9.26,7.0,3.0,2.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_986,2019-12-11,19/20,Champs League,Group,A,Bayer Leverkusen,Juventus,win,1,0,90,7.51,2.0,1.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_985,2019-12-07,19/20,Serie A,,A,Lazio,Juventus,loss,1,0,90,7.48,2.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_984,2019-12-01,19/20,Serie A,,H,Juventus,Sassuolo,draw,1,0,90,7.35,9.0,2.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_983,2019-11-26,19/20,Champs League,Group,H,Juventus,Atletico Madrid,win,0,0,90,6.89,1.0,0.0,2.0,No,,Ronaldo,Juventus
+r_982,2019-11-17,19/20,Euros Qualifier,,A,Luxembourg,Portugal,win,1,0,90,7.1,5.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_981,2019-11-14,19/20,Euros Qualifier,,H,Portugal,Lithuania,win,3,0,90,9.3,13.0,5.0,2.0,Yes,"1 pen goal, 1 inside box goal, 1 outside box goal, 3 right foot goal",Ronaldo,Portugal
+r_980,2019-11-10,19/20,Serie A,,H,Juventus,AC Milan,win,0,0,54,6.43,1.0,1.0,1.0,No,,Ronaldo,Juventus
+r_979,2019-11-06,19/20,Champs League,Group,A,Lokomotiv Moscow,Juventus,win,0,0,82,6.65,8.0,3.0,0.0,No,,Ronaldo,Juventus
+r_978,2019-11-02,19/20,Serie A,,A,Torino,Juventus,win,0,0,90,6.63,7.0,3.0,1.0,No,,Ronaldo,Juventus
+r_977,2019-10-30,19/20,Serie A,,H,Juventus,Genoa,win,1,0,90,8.39,7.0,4.0,5.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_976,2019-10-22,19/20,Champs League,Group,H,Juventus,Lokomotiv Moscow,win,0,0,90,7.4,8.0,3.0,1.0,No,,Ronaldo,Juventus
+r_975,2019-10-19,19/20,Serie A,,H,Juventus,Bologna,win,1,0,90,8.62,6.0,3.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_974,2019-10-14,19/20,Euros Qualifier,,A,Ukraine,Portugal,loss,1,0,90,8.63,10.0,6.0,3.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Portugal
+r_973,2019-10-11,19/20,Euros Qualifier,,H,Portugal,Luxembourg,win,1,0,90,8.0,10.0,4.0,3.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_972,2019-10-06,19/20,Serie A,,A,Inter Milan,Juventus,win,0,0,90,8.24,7.0,2.0,1.0,Yes,,Ronaldo,Juventus
+r_971,2019-10-01,19/20,Champs League,Group,H,Juventus,Bayer Leverkusen,win,1,0,90,8.19,5.0,3.0,1.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_970,2019-09-28,19/20,Serie A,,H,Juventus,SPAL,win,1,0,90,9.22,6.0,5.0,3.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_969,2019-09-21,19/20,Serie A,,H,Juventus,Verona,win,1,1,90,7.61,10.0,1.0,3.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_968,2019-09-18,19/20,Champs League,Group,A,Atletico Madrid,Juventus,draw,0,0,90,7.27,3.0,2.0,0.0,No,,Ronaldo,Juventus
+r_967,2019-09-14,19/20,Serie A,,A,Fiorentina,Juventus,draw,0,0,90,6.34,3.0,1.0,0.0,No,,Ronaldo,Juventus
+r_966,2019-09-10,19/20,Euros Qualifier,,A,Lithuania,Portugal,win,4,0,90,10.0,8.0,5.0,3.0,Yes,"1 pen goal, 2 inside box goal, 1 outside box goal, 4 right foot goal",Ronaldo,Portugal
+r_965,2019-09-07,19/20,Euros Qualifier,,A,Serbia,Portugal,win,1,0,90,7.3,7.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_964,2019-08-31,19/20,Serie A,,H,Juventus,Napoli,win,1,0,90,7.65,3.0,2.0,2.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_963,2019-08-24,19/20,Serie A,,A,Parma,Juventus,win,0,0,90,6.52,7.0,2.0,0.0,No,,Ronaldo,Juventus
+r_962,2019-06-09,18/19,Nations League,Final,H,Portugal,Netherlands,win,0,0,90,6.8,3.0,1.0,2.0,No,,Ronaldo,Portugal
+r_961,2019-06-05,18/19,Nations League,SF,H,Portugal,Switzerland,win,3,0,90,10.0,5.0,3.0,1.0,Yes,"1 free kick goal, 2 inside box goal, 3 right foot goal",Ronaldo,Portugal
+r_960,2019-05-19,18/19,Serie A,,H,Juventus,Atalanta,draw,0,0,90,6.42,3.0,1.0,0.0,No,,Ronaldo,Juventus
+r_959,2019-05-12,18/19,Serie A,,A,Roma,Juventus,loss,0,0,90,6.81,1.0,0.0,2.0,No,,Ronaldo,Juventus
+r_958,2019-05-03,18/19,Serie A,,H,Juventus,Torino,draw,1,0,90,7.68,5.0,2.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_957,2019-04-27,18/19,Serie A,,A,Inter Milan,Juventus,draw,1,0,90,7.89,3.0,1.0,1.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_956,2019-04-20,18/19,Serie A,,H,Juventus,Fiorentina,win,0,0,90,6.8,6.0,1.0,0.0,No,,Ronaldo,Juventus
+r_955,2019-04-16,18/19,Champs League,QF,H,Juventus,Ajax,loss,1,0,90,7.57,6.0,1.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_954,2019-04-10,18/19,Champs League,QF,A,Ajax,Juventus,draw,1,0,90,7.3,2.0,1.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_953,2019-03-25,18/19,Euros Qualifier,,H,Portugal,Serbia,draw,0,0,31,6.8,4.0,2.0,0.0,No,,Ronaldo,Portugal
+r_952,2019-03-22,18/19,Euros Qualifier,,H,Portugal,Ukraine,draw,0,0,90,7.2,7.0,3.0,1.0,No,,Ronaldo,Portugal
+r_951,2019-03-12,18/19,Champs League,R16,H,Juventus,Atletico Madrid,win,3,0,90,10.0,5.0,3.0,0.0,Yes,"1 pen goal, 2 inside box goal, 1 right foot goal, 2 header goal",Ronaldo,Juventus
+r_950,2019-03-03,18/19,Serie A,,A,Napoli,Juventus,win,0,0,90,6.83,2.0,0.0,0.0,No,,Ronaldo,Juventus
+r_949,2019-02-24,18/19,Serie A,,A,Bologna,Juventus,win,0,0,90,6.41,2.0,2.0,1.0,No,,Ronaldo,Juventus
+r_948,2019-02-20,18/19,Champs League,R16,A,Atletico Madrid,Juventus,loss,0,0,90,7.35,7.0,1.0,2.0,No,,Ronaldo,Juventus
+r_947,2019-02-15,18/19,Serie A,,H,Juventus,Frosinone,win,1,1,64,8.9,7.0,2.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_946,2019-02-10,18/19,Serie A,,A,Sassuolo,Juventus,win,1,1,90,9.09,4.0,2.0,1.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_945,2019-02-02,18/19,Serie A,,H,Juventus,Parma,draw,2,1,90,9.93,10.0,4.0,6.0,Yes,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Juventus
+r_944,2019-01-30,18/19,Coppa Italia,QF,A,Atalanta,Juventus,loss,0,0,90,6.9,3.0,0.0,0.0,No,,Ronaldo,Juventus
+r_943,2019-01-27,18/19,Serie A,,A,Lazio,Juventus,win,1,0,90,7.9,1.0,1.0,1.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_942,2019-01-21,18/19,Serie A,,H,Juventus,Chievo,win,0,0,90,6.4,8.0,2.0,3.0,No,1 pen missed,Ronaldo,Juventus
+r_941,2019-01-16,18/19,Supercoppa Italiana,Final,N,Juventus,AC Milan,win,1,0,90,7.32,5.0,1.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_940,2019-01-12,18/19,Coppa Italia,R16,A,Bologna,Juventus,win,0,0,28,6.6,1.0,1.0,0.0,No,,Ronaldo,Juventus
+r_939,2018-12-29,18/19,Serie A,,H,Juventus,Sampdoria,win,2,0,90,8.26,5.0,4.0,1.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Juventus
+r_938,2018-12-26,18/19,Serie A,,A,Atalanta,Juventus,draw,1,0,25,6.91,1.0,1.0,0.0,No,"1 inside box goal, 1 header goal",Ronaldo,Juventus
+r_937,2018-12-22,18/19,Serie A,,H,Juventus,Roma,win,0,0,90,6.62,10.0,3.0,1.0,No,,Ronaldo,Juventus
+r_936,2018-12-15,18/19,Serie A,,A,Torino,Juventus,win,1,0,90,7.67,6.0,3.0,0.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_935,2018-12-12,18/19,Champs League,Group,A,Young Boys,Juventus,loss,0,1,90,7.54,6.0,1.0,4.0,No,,Ronaldo,Juventus
+r_934,2018-12-07,18/19,Serie A,,H,Juventus,Inter Milan,win,0,0,90,6.6,4.0,1.0,1.0,No,,Ronaldo,Juventus
+r_933,2018-12-01,18/19,Serie A,,A,Fiorentina,Juventus,win,1,0,80,7.57,6.0,2.0,4.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Juventus
+r_932,2018-11-27,18/19,Champs League,Group,H,Juventus,Valencia,win,0,1,90,7.58,9.0,3.0,2.0,No,,Ronaldo,Juventus
+r_931,2018-11-24,18/19,Serie A,,H,Juventus,SPAL,win,1,0,90,7.42,5.0,2.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_930,2018-11-11,18/19,Serie A,,A,AC Milan,Juventus,win,1,0,90,8.36,5.0,3.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_929,2018-11-07,18/19,Champs League,Group,H,Juventus,Manchester United,loss,1,0,90,7.62,8.0,1.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_928,2018-11-03,18/19,Serie A,,H,Juventus,Cagliari,win,0,1,90,8.07,5.0,0.0,2.0,No,,Ronaldo,Juventus
+r_927,2018-10-27,18/19,Serie A,,A,Empoli,Juventus,win,2,0,90,8.0,6.0,3.0,1.0,No,"1 pen goal, 1 outside box goal, 2 right foot goal",Ronaldo,Juventus
+r_926,2018-10-23,18/19,Champs League,Group,A,Manchester United,Juventus,win,0,0,90,7.08,3.0,2.0,1.0,No,,Ronaldo,Juventus
+r_925,2018-10-20,18/19,Serie A,,H,Juventus,Genoa,draw,1,0,90,7.73,11.0,3.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Juventus
+r_924,2018-10-06,18/19,Serie A,,A,Udinese,Juventus,win,1,0,90,7.81,7.0,3.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_923,2018-09-29,18/19,Serie A,,H,Juventus,Napoli,win,0,2,90,8.52,8.0,5.0,3.0,No,,Ronaldo,Juventus
+r_922,2018-09-26,18/19,Serie A,,H,Juventus,Bologna,win,0,1,90,7.63,4.0,1.0,3.0,No,,Ronaldo,Juventus
+r_921,2018-09-23,18/19,Serie A,,A,Frosinone,Juventus,win,1,0,90,8.22,10.0,5.0,1.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Juventus
+r_920,2018-09-19,18/19,Champs League,Group,A,Valencia,Juventus,win,0,0,29,5.31,2.0,0.0,1.0,No,,Ronaldo,Juventus
+r_919,2018-09-16,18/19,Serie A,,H,Juventus,Sassuolo,win,2,0,90,8.52,9.0,3.0,0.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Juventus
+r_918,2018-09-01,18/19,Serie A,,A,Parma,Juventus,win,0,0,90,7.26,8.0,1.0,3.0,No,,Ronaldo,Juventus
+r_917,2018-08-25,18/19,Serie A,,H,Juventus,Lazio,win,0,1,90,8.23,6.0,4.0,3.0,Yes,,Ronaldo,Juventus
+r_916,2018-08-18,18/19,Serie A,,A,Chievo,Juventus,win,0,0,90,7.54,9.0,4.0,2.0,No,,Ronaldo,Juventus
+r_915,2018-06-30,17/18,World Cup,R16,N,Portugal,Uruguay,loss,0,0,90,6.66,6.0,1.0,1.0,No,,Ronaldo,Portugal
+r_914,2018-06-25,17/18,World Cup,Group,N,Portugal,Iran,draw,0,0,90,6.96,5.0,3.0,1.0,No,1 pen missed,Ronaldo,Portugal
+r_913,2018-06-20,17/18,World Cup,Group,N,Portugal,Morocco,win,1,0,90,7.46,6.0,1.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_912,2018-06-15,17/18,World Cup,Group,N,Portugal,Spain,draw,3,0,90,9.83,4.0,3.0,1.0,Yes,"1 pen goal, 1 free kick goal, 1 outside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Portugal
+r_911,2018-06-07,17/18,International Friendly,,H,Portugal,Algeria,win,0,1,75,,,,,,,Ronaldo,Portugal
+r_910,2018-05-26,17/18,Champs League,Final,N,Real Madrid,Liverpool,win,0,0,90,6.61,3.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_909,2018-05-19,17/18,La Liga,,A,Villarreal,Real Madrid,draw,1,0,62,7.28,5.0,2.0,0.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_908,2018-05-06,17/18,La Liga,,A,Barcelona,Real Madrid,draw,1,0,45,7.05,7.0,3.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_907,2018-05-01,17/18,Champs League,SF,H,Real Madrid,Bayern Munich,draw,0,0,90,6.95,5.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_906,2018-04-25,17/18,Champs League,SF,A,Bayern Munich,Real Madrid,win,0,0,90,6.61,2.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_905,2018-04-18,17/18,La Liga,,H,Real Madrid,Athletic Bilbao,draw,1,0,90,8.05,7.0,3.0,3.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_904,2018-04-11,17/18,Champs League,QF,H,Real Madrid,Juventus,loss,1,0,90,7.79,6.0,3.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_903,2018-04-08,17/18,La Liga,,H,Real Madrid,Atletico Madrid,draw,1,0,64,7.69,4.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_902,2018-04-03,17/18,Champs League,QF,A,Juventus,Real Madrid,win,2,1,90,9.94,7.0,3.0,3.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_901,2018-03-26,17/18,International Friendly,,N,Portugal,Netherlands,loss,0,0,68,5.92,0.0,0.0,0.0,No,,Ronaldo,Portugal
+r_900,2018-03-23,17/18,International Friendly,,N,Portugal,Egypt,win,2,0,90,,,,,,"2 inside box goal, 2 header goal",Ronaldo,Portugal
+r_899,2018-03-18,17/18,La Liga,,H,Real Madrid,Girona,win,4,1,90,10.0,10.0,7.0,3.0,Yes,"4 inside box goal, 2 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_898,2018-03-10,17/18,La Liga,,A,Eibar,Real Madrid,win,2,0,90,8.64,6.0,4.0,0.0,No,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_897,2018-03-06,17/18,Champs League,R16,A,Paris Saint-Germain,Real Madrid,win,1,1,90,8.82,4.0,1.0,4.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_896,2018-03-03,17/18,La Liga,,H,Real Madrid,Getafe,win,2,0,78,8.81,4.0,3.0,0.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_895,2018-02-24,17/18,La Liga,,H,Real Madrid,Alaves,win,2,0,90,9.43,8.0,4.0,1.0,No,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_894,2018-02-18,17/18,La Liga,,A,Real Betis,Real Madrid,win,1,0,90,8.8,5.0,4.0,1.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_893,2018-02-14,17/18,Champs League,R16,H,Real Madrid,Paris Saint-Germain,win,2,0,90,8.37,10.0,4.0,0.0,Yes,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_892,2018-02-10,17/18,La Liga,,H,Real Madrid,Real Sociedad,win,3,1,90,10.0,7.0,3.0,4.0,Yes,"3 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_891,2018-02-03,17/18,La Liga,,A,Levante,Real Madrid,draw,0,0,82,6.71,7.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_890,2018-01-27,17/18,La Liga,,A,Valencia,Real Madrid,win,2,0,90,8.65,7.0,4.0,0.0,Yes,"2 pen goal, 2 right foot goal",Ronaldo,Real Madrid
+r_889,2018-01-21,17/18,La Liga,,H,Real Madrid,Deportivo La Coruna,win,2,1,83,10.0,7.0,3.0,1.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_888,2018-01-13,17/18,La Liga,,H,Real Madrid,Villarreal,loss,0,0,90,6.67,11.0,4.0,2.0,No,,Ronaldo,Real Madrid
+r_887,2018-01-07,17/18,La Liga,,A,Celta Vigo,Real Madrid,draw,0,0,90,7.01,5.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_886,2017-12-23,17/18,La Liga,,H,Real Madrid,Barcelona,loss,0,0,90,6.54,5.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_885,2017-12-16,17/18,Club World Cup,Final,N,Real Madrid,Gremio,win,1,0,90,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_884,2017-12-13,17/18,Club World Cup,SF,N,Real Madrid,Al Jazira,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_883,2017-12-09,17/18,La Liga,,H,Real Madrid,Sevilla,win,2,0,75,8.97,5.0,3.0,1.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_882,2017-12-06,17/18,Champs League,Group,H,Real Madrid,Borussia Dortmund,win,1,0,90,8.2,8.0,5.0,2.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_881,2017-12-02,17/18,La Liga,,A,Athletic Bilbao,Real Madrid,draw,0,0,90,7.4,6.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_880,2017-11-25,17/18,La Liga,,H,Real Madrid,Malaga,win,1,0,90,7.48,7.0,4.0,0.0,No,"1 inside box goal, 1 left foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_879,2017-11-21,17/18,Champs League,Group,A,APOEL,Real Madrid,win,2,1,90,10.0,8.0,3.0,1.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_878,2017-11-18,17/18,La Liga,,A,Atletico Madrid,Real Madrid,draw,0,0,90,6.98,7.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_877,2017-11-05,17/18,La Liga,,H,Real Madrid,Las Palmas,win,0,1,90,8.23,8.0,1.0,3.0,No,,Ronaldo,Real Madrid
+r_876,2017-11-01,17/18,Champs League,Group,A,Tottenham Hotspur,Real Madrid,loss,1,0,90,7.86,7.0,5.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_875,2017-10-29,17/18,La Liga,,A,Girona,Real Madrid,loss,0,0,90,6.5,7.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_874,2017-10-22,17/18,La Liga,,H,Real Madrid,Eibar,win,0,0,90,7.07,5.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_873,2017-10-17,17/18,Champs League,Group,H,Real Madrid,Tottenham Hotspur,draw,1,0,90,7.72,8.0,3.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_872,2017-10-14,17/18,La Liga,,A,Getafe,Real Madrid,win,1,0,90,7.28,5.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_871,2017-10-10,17/18,World Cup Qualifier,,H,Portugal,Switzerland,win,0,0,90,6.73,3.0,0.0,0.0,No,,Ronaldo,Portugal
+r_870,2017-10-07,17/18,World Cup Qualifier,,A,Andorra,Portugal,win,1,0,45,8.0,5.0,2.0,2.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_869,2017-10-01,17/18,La Liga,,H,Real Madrid,Espanyol,win,0,1,90,8.06,5.0,1.0,5.0,No,,Ronaldo,Real Madrid
+r_868,2017-09-26,17/18,Champs League,Group,A,Borussia Dortmund,Real Madrid,win,2,0,90,8.07,5.0,2.0,0.0,No,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_867,2017-09-23,17/18,La Liga,,A,Alaves,Real Madrid,win,0,0,90,7.97,6.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_866,2017-09-20,17/18,La Liga,,H,Real Madrid,Real Betis,loss,0,0,90,7.06,12.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_865,2017-09-13,17/18,Champs League,Group,H,Real Madrid,APOEL,win,2,0,90,8.68,9.0,3.0,2.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_864,2017-09-03,17/18,World Cup Qualifier,,A,Hungary,Portugal,win,0,1,90,7.7,9.0,2.0,3.0,No,,Ronaldo,Portugal
+r_863,2017-08-31,17/18,World Cup Qualifier,,H,Portugal,Faroe Islands,win,3,1,90,10.0,6.0,5.0,3.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Portugal
+r_862,2017-08-13,17/18,Supercopa de Espana,Final,A,Barcelona,Real Madrid,win,1,0,24,5.56,3.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_861,2017-08-08,17/18,UEFA Super Cup,Final,N,Real Madrid,Manchester United,win,0,0,7,6.15,1.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_860,2017-06-28,16/17,Confederations Cup,SF,N,Portugal,Chile,loss,0,0,120,,,,,,,Ronaldo,Portugal
+r_859,2017-06-24,16/17,Confederations Cup,Group,N,Portugal,New Zealand,win,1,0,67,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Portugal
+r_858,2017-06-21,16/17,Confederations Cup,Group,A,Russia,Portugal,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_857,2017-06-18,16/17,Confederations Cup,Group,N,Portugal,Mexico,draw,0,1,90,,,,,,,Ronaldo,Portugal
+r_856,2017-06-09,16/17,World Cup Qualifier,,A,Latvia,Portugal,win,2,1,90,10.0,9.0,7.0,2.0,Yes,"2 inside box goal, 2 header goal",Ronaldo,Portugal
+r_855,2017-06-03,16/17,Champs League,Final,N,Real Madrid,Juventus,win,2,0,90,8.44,6.0,2.0,0.0,No,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_854,2017-05-21,16/17,La Liga,,A,Malaga,Real Madrid,win,1,0,90,7.69,3.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_853,2017-05-17,16/17,La Liga,,A,Celta Vigo,Real Madrid,win,2,0,85,8.47,3.0,2.0,0.0,No,"1 inside box goal, 1 outside box goal, 2 left foot goal",Ronaldo,Real Madrid
+r_852,2017-05-14,16/17,La Liga,,H,Real Madrid,Sevilla,win,2,0,90,8.97,4.0,3.0,1.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_851,2017-05-10,16/17,Champs League,SF,A,Atletico Madrid,Real Madrid,loss,0,0,90,6.47,6.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_850,2017-05-02,16/17,Champs League,SF,H,Real Madrid,Atletico Madrid,win,3,0,90,10.0,5.0,3.0,2.0,Yes,"3 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_849,2017-04-29,16/17,La Liga,,H,Real Madrid,Valencia,win,1,0,90,6.71,8.0,2.0,1.0,No,"1 inside box goal, 1 header goal, 1 pen missed",Ronaldo,Real Madrid
+r_848,2017-04-23,16/17,La Liga,,H,Real Madrid,Barcelona,loss,0,0,90,6.73,8.0,3.0,2.0,No,,Ronaldo,Real Madrid
+r_847,2017-04-18,16/17,Champs League,QF,H,Real Madrid,Bayern Munich,win,3,0,120,9.67,9.0,5.0,1.0,No,"3 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_846,2017-04-12,16/17,Champs League,QF,A,Bayern Munich,Real Madrid,win,2,0,90,8.68,8.0,4.0,2.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_845,2017-04-08,16/17,La Liga,,H,Real Madrid,Atletico Madrid,draw,0,0,90,6.92,4.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_844,2017-04-02,16/17,La Liga,,H,Real Madrid,Alaves,win,0,1,90,8.04,7.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_843,2017-03-28,16/17,International Friendly,,H,Portugal,Sweden,loss,1,0,58,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_842,2017-03-25,16/17,World Cup Qualifier,,H,Portugal,Hungary,win,2,0,90,,,,,,"1 free kick goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_841,2017-03-18,16/17,La Liga,,A,Athletic Bilbao,Real Madrid,win,0,2,79,7.72,2.0,1.0,3.0,No,,Ronaldo,Real Madrid
+r_840,2017-03-12,16/17,La Liga,,H,Real Madrid,Real Betis,win,1,0,90,7.37,6.0,2.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_839,2017-03-07,16/17,Champs League,R16,A,Napoli,Real Madrid,win,0,0,90,7.04,3.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_838,2017-03-01,16/17,La Liga,,H,Real Madrid,Las Palmas,draw,2,0,90,7.78,8.0,2.0,1.0,No,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_837,2017-02-26,16/17,La Liga,,A,Villarreal,Real Madrid,win,1,0,90,7.36,9.0,1.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_836,2017-02-22,16/17,La Liga,,A,Valencia,Real Madrid,loss,1,0,90,7.36,9.0,2.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_835,2017-02-18,16/17,La Liga,,H,Real Madrid,Espanyol,win,0,0,90,6.65,3.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_834,2017-02-15,16/17,Champs League,R16,H,Real Madrid,Napoli,win,0,1,90,8.49,3.0,0.0,5.0,No,,Ronaldo,Real Madrid
+r_833,2017-02-11,16/17,La Liga,,A,Osasuna,Real Madrid,win,1,0,90,7.93,4.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_832,2017-01-29,16/17,La Liga,,H,Real Madrid,Real Sociedad,win,1,1,90,8.2,2.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_831,2017-01-25,16/17,Copa del Rey,QF,A,Celta Vigo,Real Madrid,draw,1,0,90,7.2,6.0,2.0,1.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_830,2017-01-21,16/17,La Liga,,H,Real Madrid,Malaga,win,0,0,90,7.26,4.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_829,2017-01-18,16/17,Copa del Rey,QF,H,Real Madrid,Celta Vigo,loss,0,0,90,7.1,5.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_828,2017-01-15,16/17,La Liga,,A,Sevilla,Real Madrid,loss,1,0,90,6.87,5.0,3.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_827,2017-01-07,16/17,La Liga,,H,Real Madrid,Granada,win,1,0,90,7.86,5.0,2.0,0.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_826,2016-12-18,16/17,Club World Cup,Final,N,Real Madrid,Kashima Antlers,win,3,0,111,,,,,,"1 pen goal, 2 inside box goal, 2 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_825,2016-12-15,16/17,Club World Cup,SF,N,Real Madrid,Club America,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_824,2016-12-07,16/17,Champs League,Group,H,Real Madrid,Borussia Dortmund,draw,0,0,90,7.3,3.0,1.0,3.0,No,,Ronaldo,Real Madrid
+r_823,2016-12-03,16/17,La Liga,,A,Barcelona,Real Madrid,draw,0,0,90,6.92,6.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_822,2016-11-26,16/17,La Liga,,H,Real Madrid,Sporting Gijon,win,2,0,90,8.62,7.0,5.0,4.0,Yes,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_821,2016-11-22,16/17,Champs League,Group,A,Sporting CP,Real Madrid,win,0,1,90,7.22,2.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_820,2016-11-19,16/17,La Liga,,A,Atletico Madrid,Real Madrid,win,3,0,83,9.74,5.0,5.0,0.0,Yes,"1 pen goal, 1 free kick goal, 1 inside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_819,2016-11-13,16/17,World Cup Qualifier,,H,Portugal,Latvia,win,2,0,90,,,,,,"1 pen goal, 1 inside box goal, 2 right foot goal, 1 pen missed",Ronaldo,Portugal
+r_818,2016-11-06,16/17,La Liga,,H,Real Madrid,Leganes,win,0,0,90,6.73,3.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_817,2016-11-02,16/17,Champs League,Group,A,Legia Warsaw,Real Madrid,draw,0,1,90,7.21,9.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_816,2016-10-29,16/17,La Liga,,A,Alaves,Real Madrid,win,3,0,90,9.09,8.0,4.0,0.0,Yes,"1 pen goal, 1 inside box goal, 1 outside box goal, 3 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_815,2016-10-23,16/17,La Liga,,H,Real Madrid,Athletic Bilbao,win,0,0,90,7.24,11.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_814,2016-10-18,16/17,Champs League,Group,H,Real Madrid,Legia Warsaw,win,0,2,90,8.13,9.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_813,2016-10-15,16/17,La Liga,,A,Real Betis,Real Madrid,win,1,1,90,8.46,8.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_812,2016-10-10,16/17,World Cup Qualifier,,A,Faroe Islands,Portugal,win,1,0,90,,,,,,"1 outside box goal, 1 left foot goal",Ronaldo,Portugal
+r_811,2016-10-07,16/17,World Cup Qualifier,,H,Portugal,Andorra,win,4,0,90,,,,,,"4 inside box goal, 2 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Portugal
+r_810,2016-10-02,16/17,La Liga,,H,Real Madrid,Eibar,draw,0,1,90,7.43,8.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_809,2016-09-27,16/17,Champs League,Group,A,Borussia Dortmund,Real Madrid,draw,1,0,90,8.26,6.0,3.0,1.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_808,2016-09-24,16/17,La Liga,,A,Las Palmas,Real Madrid,draw,0,0,72,6.45,6.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_807,2016-09-21,16/17,La Liga,,H,Real Madrid,Villarreal,draw,0,0,90,6.36,4.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_806,2016-09-14,16/17,Champs League,Group,H,Real Madrid,Sporting CP,win,1,0,90,7.9,4.0,2.0,0.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_805,2016-09-10,16/17,La Liga,,H,Real Madrid,Osasuna,win,1,0,66,7.62,2.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_804,2016-07-10,15/16,UEFA Euros,Final,A,France,Portugal,win,0,0,25,6.1,0.0,0.0,0.0,No,,Ronaldo,Portugal
+r_803,2016-07-06,15/16,UEFA Euros,SF,N,Portugal,Wales,win,1,1,90,8.18,9.0,2.0,2.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_802,2016-06-30,15/16,UEFA Euros,QF,N,Portugal,Poland,win,0,0,120,7.34,5.0,1.0,4.0,No,,Ronaldo,Portugal
+r_801,2016-06-25,15/16,UEFA Euros,R16,N,Portugal,Croatia,win,0,0,120,6.6,1.0,1.0,0.0,No,,Ronaldo,Portugal
+r_800,2016-06-22,15/16,UEFA Euros,Group,N,Portugal,Hungary,draw,2,1,90,9.14,10.0,3.0,2.0,Yes,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Portugal
+r_799,2016-06-18,15/16,UEFA Euros,Group,N,Portugal,Austria,draw,0,0,90,6.87,10.0,3.0,1.0,No,1 pen missed,Ronaldo,Portugal
+r_798,2016-06-14,15/16,UEFA Euros,Group,N,Portugal,Iceland,draw,0,0,90,6.48,10.0,1.0,1.0,No,,Ronaldo,Portugal
+r_797,2016-06-09,15/16,International Friendly,,H,Portugal,Estonia,win,2,0,45,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Portugal
+r_796,2016-05-28,15/16,Champs League,Final,N,Real Madrid,Atletico Madrid,win,0,0,120,7.8,6.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_795,2016-05-14,15/16,La Liga,,A,Deportivo La Coruna,Real Madrid,win,2,0,45,9.02,7.0,2.0,1.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_794,2016-05-08,15/16,La Liga,,H,Real Madrid,Valencia,win,2,0,79,8.78,3.0,3.0,1.0,Yes,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_793,2016-05-04,15/16,Champs League,SF,H,Real Madrid,Manchester City,win,0,0,90,6.82,7.0,3.0,2.0,No,,Ronaldo,Real Madrid
+r_792,2016-04-20,15/16,La Liga,,H,Real Madrid,Villarreal,win,0,0,90,7.44,7.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_791,2016-04-16,15/16,La Liga,,A,Getafe,Real Madrid,win,1,0,90,9.44,8.0,2.0,1.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_790,2016-04-12,15/16,Champs League,QF,H,Real Madrid,Wolfsburg,win,3,0,90,9.39,5.0,3.0,0.0,Yes,"1 free kick goal, 2 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_789,2016-04-09,15/16,La Liga,,H,Real Madrid,Eibar,win,1,2,90,8.94,7.0,3.0,3.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_788,2016-04-05,15/16,Champs League,QF,A,Wolfsburg,Real Madrid,loss,0,0,90,6.18,6.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_787,2016-04-02,15/16,La Liga,,A,Barcelona,Real Madrid,win,1,0,90,8.0,5.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_786,2016-03-29,15/16,International Friendly,,H,Portugal,Belgium,win,1,0,61,7.97,5.0,2.0,1.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_785,2016-03-25,15/16,International Friendly,,H,Portugal,Bulgaria,loss,0,0,90,,,,,,1 pen missed,Ronaldo,Portugal
+r_784,2016-03-20,15/16,La Liga,,H,Real Madrid,Sevilla,win,1,0,90,7.86,9.0,5.0,2.0,No,"1 inside box goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_783,2016-03-13,15/16,La Liga,,A,Las Palmas,Real Madrid,win,0,0,90,7.09,4.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_782,2016-03-08,15/16,Champs League,R16,H,Real Madrid,Roma,win,1,1,90,8.47,14.0,4.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_781,2016-03-05,15/16,La Liga,,H,Real Madrid,Celta Vigo,win,4,0,90,10.0,7.0,6.0,0.0,Yes,"1 free kick goal, 2 inside box goal, 1 outside box goal, 3 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_780,2016-03-02,15/16,La Liga,,A,Levante,Real Madrid,win,1,1,90,8.56,9.0,4.0,4.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_779,2016-02-27,15/16,La Liga,,H,Real Madrid,Atletico Madrid,loss,0,0,90,6.92,7.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_778,2016-02-21,15/16,La Liga,,A,Malaga,Real Madrid,draw,1,0,90,7.56,4.0,3.0,0.0,No,"1 inside box goal, 1 header goal, 1 pen missed",Ronaldo,Real Madrid
+r_777,2016-02-17,15/16,Champs League,R16,A,Roma,Real Madrid,win,1,0,89,8.0,6.0,1.0,4.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_776,2016-02-13,15/16,La Liga,,H,Real Madrid,Athletic Bilbao,win,2,1,90,9.98,7.0,5.0,2.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_775,2016-02-07,15/16,La Liga,,A,Granada,Real Madrid,win,0,0,90,6.76,3.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_774,2016-01-31,15/16,La Liga,,H,Real Madrid,Espanyol,win,3,0,90,10.0,5.0,4.0,3.0,Yes,"1 pen goal, 1 inside box goal, 1 outside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_773,2016-01-24,15/16,La Liga,,A,Real Betis,Real Madrid,draw,0,0,90,6.39,4.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_772,2016-01-17,15/16,La Liga,,H,Real Madrid,Sporting Gijon,win,2,0,90,8.68,5.0,3.0,1.0,No,"2 inside box goal, 2 left foot goal",Ronaldo,Real Madrid
+r_771,2016-01-09,15/16,La Liga,,H,Real Madrid,Deportivo La Coruna,win,0,2,90,8.45,10.0,3.0,2.0,No,,Ronaldo,Real Madrid
+r_770,2016-01-03,15/16,La Liga,,A,Valencia,Real Madrid,draw,0,1,90,7.04,2.0,0.0,4.0,No,,Ronaldo,Real Madrid
+r_769,2015-12-30,15/16,La Liga,,H,Real Madrid,Real Sociedad,win,2,0,90,7.39,8.0,3.0,0.0,No,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_768,2015-12-20,15/16,La Liga,,H,Real Madrid,Rayo Vallecano,loss,2,1,90,9.65,7.0,3.0,2.0,No,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_767,2015-12-13,15/16,La Liga,,A,Villarreal,Real Madrid,loss,0,0,90,6.7,5.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_766,2015-12-08,15/16,Champs League,Group,H,Real Madrid,Malmo,win,4,1,90,10.0,10.0,6.0,3.0,Yes,"1 free kick goal, 3 inside box goal, 1 left foot goal, 3 right foot goal",Ronaldo,Real Madrid
+r_765,2015-12-05,15/16,La Liga,,H,Real Madrid,Getafe,win,1,1,90,8.95,5.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_764,2015-11-29,15/16,La Liga,,A,Eibar,Real Madrid,win,1,0,90,6.87,9.0,2.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_763,2015-11-25,15/16,Champs League,Group,A,Shakhtar Donetsk,Real Madrid,win,2,2,90,9.58,10.0,5.0,4.0,Yes,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_762,2015-11-21,15/16,La Liga,,H,Real Madrid,Barcelona,loss,0,0,90,6.48,2.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_761,2015-11-08,15/16,La Liga,,A,Sevilla,Real Madrid,loss,0,0,90,6.46,5.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_760,2015-11-03,15/16,Champs League,Group,H,Real Madrid,Paris Saint-Germain,win,0,0,90,7.0,3.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_759,2015-10-31,15/16,La Liga,,H,Real Madrid,Las Palmas,win,1,0,90,7.74,5.0,3.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_758,2015-10-24,15/16,La Liga,,A,Celta Vigo,Real Madrid,win,1,0,90,8.5,7.0,4.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_757,2015-10-21,15/16,Champs League,Group,A,Paris Saint-Germain,Real Madrid,draw,0,0,90,6.51,6.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_756,2015-10-17,15/16,La Liga,,H,Real Madrid,Levante,win,1,1,90,8.99,6.0,2.0,3.0,Yes,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_755,2015-10-08,15/16,Euros Qualifier,,H,Portugal,Denmark,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_754,2015-10-04,15/16,La Liga,,A,Atletico Madrid,Real Madrid,draw,0,0,90,6.77,6.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_753,2015-09-30,15/16,Champs League,Group,A,Malmo,Real Madrid,win,2,0,90,8.77,12.0,7.0,0.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_752,2015-09-26,15/16,La Liga,,H,Real Madrid,Malaga,draw,0,0,90,6.55,14.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_751,2015-09-23,15/16,La Liga,,A,Athletic Bilbao,Real Madrid,win,0,0,90,7.23,4.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_750,2015-09-19,15/16,La Liga,,H,Real Madrid,Granada,win,0,0,90,7.12,8.0,5.0,1.0,No,,Ronaldo,Real Madrid
+r_749,2015-09-15,15/16,Champs League,Group,H,Real Madrid,Shakhtar Donetsk,win,3,0,90,9.2,10.0,3.0,3.0,Yes,"2 pen goal, 1 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_748,2015-09-12,15/16,La Liga,,A,Espanyol,Real Madrid,win,5,1,90,10.0,7.0,5.0,3.0,Yes,"1 pen goal, 4 inside box goal, 1 left foot goal, 4 right foot goal",Ronaldo,Real Madrid
+r_747,2015-09-07,15/16,Euros Qualifier,,A,Albania,Portugal,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_746,2015-09-04,15/16,International Friendly,,H,Portugal,France,loss,0,0,68,6.44,2.0,1.0,0.0,No,,Ronaldo,Portugal
+r_745,2015-08-29,15/16,La Liga,,H,Real Madrid,Real Betis,win,0,0,90,8.02,6.0,5.0,1.0,No,,Ronaldo,Real Madrid
+r_744,2015-08-23,15/16,La Liga,,A,Sporting Gijon,Real Madrid,draw,0,0,90,7.32,10.0,4.0,0.0,No,,Ronaldo,Real Madrid
+r_743,2015-06-13,14/15,Euros Qualifier,,A,Armenia,Portugal,win,3,0,90,,,,,,"1 pen goal, 1 inside box goal, 1 outside box goal, 3 right foot goal",Ronaldo,Portugal
+r_742,2015-05-23,14/15,La Liga,,H,Real Madrid,Getafe,win,3,0,58,9.28,7.0,3.0,1.0,Yes,"1 pen goal, 1 free kick goal, 1 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_741,2015-05-17,14/15,La Liga,,A,Espanyol,Real Madrid,win,3,1,90,10.0,9.0,4.0,3.0,Yes,"3 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_740,2015-05-13,14/15,Champs League,SF,H,Real Madrid,Juventus,draw,1,0,90,7.19,3.0,1.0,3.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_739,2015-05-09,14/15,La Liga,,H,Real Madrid,Valencia,draw,0,0,90,6.62,5.0,1.0,1.0,No,1 pen missed,Ronaldo,Real Madrid
+r_738,2015-05-05,14/15,Champs League,SF,A,Juventus,Real Madrid,loss,1,0,90,7.15,3.0,1.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_737,2015-05-02,14/15,La Liga,,A,Sevilla,Real Madrid,win,3,0,90,9.68,7.0,4.0,1.0,Yes,"3 inside box goal, 1 right foot goal, 2 header goal",Ronaldo,Real Madrid
+r_736,2015-04-29,14/15,La Liga,,H,Real Madrid,Almeria,win,0,0,90,7.29,9.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_735,2015-04-26,14/15,La Liga,,A,Celta Vigo,Real Madrid,win,0,1,90,8.34,3.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_734,2015-04-22,14/15,Champs League,QF,H,Real Madrid,Atletico Madrid,win,0,1,90,8.09,6.0,3.0,3.0,Yes,,Ronaldo,Real Madrid
+r_733,2015-04-18,14/15,La Liga,,H,Real Madrid,Malaga,win,1,2,90,8.86,7.0,2.0,3.0,Yes,"1 inside box goal, 1 left foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_732,2015-04-14,14/15,Champs League,QF,A,Atletico Madrid,Real Madrid,draw,0,0,90,6.84,5.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_731,2015-04-11,14/15,La Liga,,H,Real Madrid,Eibar,win,1,0,90,8.52,7.0,3.0,3.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_730,2015-04-08,14/15,La Liga,,A,Rayo Vallecano,Real Madrid,win,1,1,90,8.58,5.0,2.0,3.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_729,2015-04-05,14/15,La Liga,,H,Real Madrid,Granada,win,5,0,90,10.0,13.0,5.0,2.0,Yes,"4 inside box goal, 1 outside box goal, 3 right foot goal, 2 header goal",Ronaldo,Real Madrid
+r_728,2015-03-29,14/15,Euros Qualifier,,H,Portugal,Serbia,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_727,2015-03-22,14/15,La Liga,,A,Barcelona,Real Madrid,loss,1,0,90,7.5,4.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_726,2015-03-15,14/15,La Liga,,H,Real Madrid,Levante,win,0,1,90,8.35,9.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_725,2015-03-10,14/15,Champs League,R16,H,Real Madrid,Schalke,loss,2,0,90,8.34,4.0,3.0,2.0,No,"2 inside box goal, 2 header goal",Ronaldo,Real Madrid
+r_724,2015-03-07,14/15,La Liga,,A,Athletic Bilbao,Real Madrid,loss,0,0,90,7.12,3.0,0.0,3.0,No,,Ronaldo,Real Madrid
+r_723,2015-03-01,14/15,La Liga,,H,Real Madrid,Villarreal,draw,1,0,90,8.5,13.0,6.0,2.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_722,2015-02-22,14/15,La Liga,,A,Elche,Real Madrid,win,1,0,90,8.09,9.0,3.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_721,2015-02-18,14/15,Champs League,R16,A,Schalke,Real Madrid,win,1,1,90,8.04,6.0,2.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_720,2015-02-14,14/15,La Liga,,H,Real Madrid,Deportivo La Coruna,win,0,1,90,7.72,6.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_719,2015-02-07,14/15,La Liga,,A,Atletico Madrid,Real Madrid,loss,0,0,90,5.53,1.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_718,2015-01-24,14/15,La Liga,,A,Cordoba,Real Madrid,win,0,0,82,5.56,3.0,0.0,2.0,No,,Ronaldo,Real Madrid
+r_717,2015-01-18,14/15,La Liga,,A,Getafe,Real Madrid,win,2,0,90,8.75,7.0,2.0,1.0,No,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_716,2015-01-15,14/15,Copa del Rey,R16,H,Real Madrid,Atletico Madrid,draw,1,0,90,8.08,9.0,3.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_715,2015-01-10,14/15,La Liga,,H,Real Madrid,Espanyol,win,0,1,90,7.04,4.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_714,2015-01-07,14/15,Copa del Rey,R16,A,Atletico Madrid,Real Madrid,loss,0,0,27,5.7,1.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_713,2015-01-04,14/15,La Liga,,A,Valencia,Real Madrid,loss,1,0,90,7.74,6.0,4.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_712,2014-12-20,14/15,Club World Cup,Final,N,Real Madrid,San Lorenzo,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_711,2014-12-16,14/15,Club World Cup,SF,N,Real Madrid,Cruz Azul,win,0,2,90,,,,,,,Ronaldo,Real Madrid
+r_710,2014-12-12,14/15,La Liga,,A,Almeria,Real Madrid,win,2,0,90,8.74,7.0,4.0,1.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_709,2014-12-09,14/15,Champs League,Group,H,Real Madrid,Ludogorets,win,1,0,90,7.94,10.0,1.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_708,2014-12-06,14/15,La Liga,,H,Real Madrid,Celta Vigo,win,3,0,85,10.0,8.0,5.0,1.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_707,2014-11-29,14/15,La Liga,,A,Malaga,Real Madrid,win,0,2,90,8.46,6.0,3.0,5.0,Yes,,Ronaldo,Real Madrid
+r_706,2014-11-26,14/15,Champs League,Group,A,FC Basel,Real Madrid,win,1,0,90,8.52,4.0,3.0,0.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_705,2014-11-22,14/15,La Liga,,A,Eibar,Real Madrid,win,2,1,84,9.89,4.0,2.0,4.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_704,2014-11-18,14/15,International Friendly,,N,Portugal,Argentina,win,0,0,45,6.25,1.0,0.0,0.0,No,,Ronaldo,Portugal
+r_703,2014-11-14,14/15,Euros Qualifier,,H,Portugal,Armenia,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_702,2014-11-08,14/15,La Liga,,H,Real Madrid,Rayo Vallecano,win,1,2,90,10.0,5.0,4.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_701,2014-11-04,14/15,Champs League,Group,H,Real Madrid,Liverpool,win,0,0,90,7.68,10.0,5.0,2.0,No,,Ronaldo,Real Madrid
+r_700,2014-11-01,14/15,La Liga,,A,Granada,Real Madrid,win,1,2,90,9.75,4.0,3.0,5.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_699,2014-10-25,14/15,La Liga,,H,Real Madrid,Barcelona,win,1,0,90,7.48,5.0,2.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_698,2014-10-22,14/15,Champs League,Group,A,Liverpool,Real Madrid,win,1,0,75,8.73,6.0,4.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_697,2014-10-18,14/15,La Liga,,A,Levante,Real Madrid,win,2,0,90,9.73,8.0,4.0,4.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_696,2014-10-14,14/15,Euros Qualifier,,A,Denmark,Portugal,win,1,0,90,8.09,6.0,3.0,3.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_695,2014-10-11,14/15,International Friendly,,A,France,Portugal,loss,0,0,76,6.37,4.0,1.0,1.0,No,,Ronaldo,Portugal
+r_694,2014-10-05,14/15,La Liga,,H,Real Madrid,Athletic Bilbao,win,3,1,90,10.0,10.0,8.0,3.0,Yes,"3 inside box goal, 1 right foot goal, 1 header goal, 1 other goal",Ronaldo,Real Madrid
+r_693,2014-10-01,14/15,Champs League,Group,A,Ludogorets,Real Madrid,win,1,0,90,7.34,6.0,4.0,1.0,No,"1 pen goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_692,2014-09-27,14/15,La Liga,,A,Villarreal,Real Madrid,win,1,0,90,7.65,4.0,1.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_691,2014-09-23,14/15,La Liga,,H,Real Madrid,Elche,win,4,0,90,10.0,11.0,9.0,3.0,Yes,"2 pen goal, 2 inside box goal, 3 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_690,2014-09-20,14/15,La Liga,,A,Deportivo La Coruna,Real Madrid,win,3,0,90,10.0,8.0,5.0,0.0,Yes,"2 inside box goal, 1 outside box goal, 2 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_689,2014-09-16,14/15,Champs League,Group,H,Real Madrid,FC Basel,win,1,1,90,8.07,8.0,1.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_688,2014-09-13,14/15,La Liga,,H,Real Madrid,Atletico Madrid,loss,1,0,90,8.4,5.0,1.0,5.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_687,2014-08-25,14/15,La Liga,,H,Real Madrid,Cordoba,win,1,0,90,7.74,3.0,2.0,2.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_686,2014-08-22,14/15,Supercopa de Espana,Final,A,Atletico Madrid,Real Madrid,loss,0,0,45,6.03,3.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_685,2014-08-19,14/15,Supercopa de Espana,Final,H,Real Madrid,Atletico Madrid,draw,0,0,45,6.15,1.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_684,2014-08-12,14/15,UEFA Super Cup,Final,N,Real Madrid,Sevilla,win,2,0,90,8.7,6.0,4.0,0.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_683,2014-06-26,13/14,World Cup,Group,N,Portugal,Ghana,win,1,0,90,7.57,8.0,6.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_682,2014-06-23,13/14,World Cup,Group,N,Portugal,USA,draw,0,1,90,7.9,7.0,1.0,2.0,No,,Ronaldo,Portugal
+r_681,2014-06-16,13/14,World Cup,Group,N,Portugal,Germany,loss,0,0,90,6.17,7.0,2.0,1.0,No,,Ronaldo,Portugal
+r_680,2014-06-11,13/14,International Friendly,,N,Portugal,Republic of Ireland,win,0,0,65,,,,,,,Ronaldo,Portugal
+r_679,2014-05-24,13/14,Champs League,Final,N,Real Madrid,Atletico Madrid,win,1,1,120,8.45,9.0,3.0,3.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_678,2014-05-07,13/14,La Liga,,A,Real Valladolid,Real Madrid,draw,0,0,9,6.45,0.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_677,2014-05-04,13/14,La Liga,,H,Real Madrid,Valencia,draw,1,1,90,9.23,14.0,8.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_676,2014-04-29,13/14,Champs League,SF,A,Bayern Munich,Real Madrid,win,2,0,90,9.11,7.0,2.0,1.0,No,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_675,2014-04-26,13/14,La Liga,,H,Real Madrid,Osasuna,win,2,0,62,9.8,3.0,2.0,5.0,Yes,"2 outside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_674,2014-04-23,13/14,Champs League,SF,H,Real Madrid,Bayern Munich,win,0,0,73,6.53,5.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_673,2014-04-02,13/14,Champs League,QF,H,Real Madrid,Borussia Dortmund,win,1,0,80,8.45,4.0,3.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_672,2014-03-29,13/14,La Liga,,H,Real Madrid,Rayo Vallecano,win,1,1,90,8.62,5.0,1.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_671,2014-03-26,13/14,La Liga,,A,Sevilla,Real Madrid,loss,1,0,90,8.56,8.0,5.0,2.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_670,2014-03-23,13/14,La Liga,,H,Real Madrid,Barcelona,loss,1,0,90,8.06,3.0,2.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_669,2014-03-18,13/14,Champs League,R16,H,Real Madrid,Schalke,win,2,0,90,9.8,6.0,3.0,4.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_668,2014-03-15,13/14,La Liga,,A,Malaga,Real Madrid,win,1,0,90,8.5,10.0,6.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_667,2014-03-09,13/14,La Liga,,H,Real Madrid,Levante,win,1,1,90,9.48,5.0,2.0,2.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_666,2014-03-05,13/14,International Friendly,,H,Portugal,Cameroon,win,2,0,87,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Portugal
+r_665,2014-03-02,13/14,La Liga,,A,Atletico Madrid,Real Madrid,draw,1,0,90,8.23,7.0,3.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_664,2014-02-26,13/14,Champs League,R16,A,Schalke,Real Madrid,win,2,1,90,10.0,10.0,7.0,2.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_663,2014-02-11,13/14,Copa del Rey,SF,A,Atletico Madrid,Real Madrid,win,2,0,75,7.81,5.0,3.0,0.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Real Madrid
+r_662,2014-02-05,13/14,Copa del Rey,SF,H,Real Madrid,Atletico Madrid,win,0,0,90,8.1,5.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_661,2014-02-02,13/14,La Liga,,A,Athletic Bilbao,Real Madrid,draw,0,1,75,6.47,3.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_660,2014-01-28,13/14,Copa del Rey,QF,H,Real Madrid,Espanyol,win,0,0,90,6.42,8.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_659,2014-01-25,13/14,La Liga,,H,Real Madrid,Granada,win,1,0,90,8.8,7.0,3.0,4.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_658,2014-01-21,13/14,Copa del Rey,QF,A,Espanyol,Real Madrid,win,0,0,90,6.88,6.0,1.0,3.0,No,,Ronaldo,Real Madrid
+r_657,2014-01-18,13/14,La Liga,,A,Real Betis,Real Madrid,win,1,1,90,9.34,10.0,5.0,2.0,Yes,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_656,2014-01-15,13/14,Copa del Rey,R16,A,Osasuna,Real Madrid,win,1,0,62,8.23,3.0,3.0,1.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_655,2014-01-12,13/14,La Liga,,A,Espanyol,Real Madrid,win,0,0,90,7.34,11.0,5.0,2.0,No,,Ronaldo,Real Madrid
+r_654,2014-01-09,13/14,Copa del Rey,R16,H,Real Madrid,Osasuna,win,0,1,90,7.55,6.0,1.0,3.0,No,,Ronaldo,Real Madrid
+r_653,2014-01-06,13/14,La Liga,,H,Real Madrid,Celta Vigo,win,2,0,90,9.47,7.0,3.0,3.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_652,2013-12-22,13/14,La Liga,,A,Valencia,Real Madrid,win,1,0,90,8.31,3.0,1.0,3.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_651,2013-12-14,13/14,La Liga,,A,Osasuna,Real Madrid,draw,0,1,90,6.5,9.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_650,2013-12-10,13/14,Champs League,Group,A,FC Copenhagen,Real Madrid,win,1,0,90,8.03,8.0,5.0,0.0,No,"1 inside box goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_649,2013-11-23,13/14,La Liga,,A,Almeria,Real Madrid,win,1,0,54,8.78,8.0,3.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_648,2013-11-19,13/14,World Cup Qualifier,Play-off,A,Sweden,Portugal,win,3,0,90,9.71,12.0,4.0,1.0,Yes,"3 inside box goal, 2 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_647,2013-11-15,13/14,World Cup Qualifier,Play-off,H,Portugal,Sweden,win,1,0,90,7.52,2.0,1.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_646,2013-11-09,13/14,La Liga,,H,Real Madrid,Real Sociedad,win,3,1,90,10.0,8.0,5.0,2.0,Yes,"1 pen goal, 1 free kick goal, 1 inside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_645,2013-11-05,13/14,Champs League,Group,A,Juventus,Real Madrid,draw,1,1,90,7.98,7.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_644,2013-11-02,13/14,La Liga,,A,Rayo Vallecano,Real Madrid,win,2,0,90,8.65,8.0,4.0,0.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_643,2013-10-30,13/14,La Liga,,H,Real Madrid,Sevilla,win,3,0,90,8.52,6.0,4.0,0.0,No,"1 pen goal, 2 inside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_642,2013-10-26,13/14,La Liga,,A,Barcelona,Real Madrid,loss,0,1,90,7.39,1.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_641,2013-10-23,13/14,Champs League,Group,H,Real Madrid,Juventus,win,2,0,90,8.77,4.0,2.0,3.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_640,2013-10-19,13/14,La Liga,,H,Real Madrid,Malaga,win,1,0,90,8.43,11.0,7.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_639,2013-10-11,13/14,World Cup Qualifier,,H,Portugal,Israel,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_638,2013-10-05,13/14,La Liga,,A,Levante,Real Madrid,win,1,0,90,8.19,9.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_637,2013-10-02,13/14,Champs League,Group,H,Real Madrid,FC Copenhagen,win,2,0,90,8.69,7.0,2.0,4.0,No,"2 inside box goal, 2 header goal",Ronaldo,Real Madrid
+r_636,2013-09-28,13/14,La Liga,,H,Real Madrid,Atletico Madrid,loss,0,0,90,6.8,5.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_635,2013-09-25,13/14,La Liga,,A,Elche,Real Madrid,win,2,0,90,8.31,7.0,2.0,1.0,Yes,"1 pen goal, 1 free kick goal, 2 right foot goal",Ronaldo,Real Madrid
+r_634,2013-09-22,13/14,La Liga,,H,Real Madrid,Getafe,win,2,0,90,8.17,13.0,5.0,2.0,No,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_633,2013-09-17,13/14,Champs League,Group,A,Galatasaray,Real Madrid,win,3,1,90,10.0,9.0,6.0,3.0,Yes,"3 inside box goal, 2 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_632,2013-09-14,13/14,La Liga,,A,Villarreal,Real Madrid,draw,1,0,90,7.72,8.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_631,2013-09-06,13/14,World Cup Qualifier,,A,Northern Ireland,Portugal,win,3,0,90,,,,,,"1 free kick goal, 2 inside box goal, 1 right foot goal, 2 header goal",Ronaldo,Portugal
+r_630,2013-09-01,13/14,La Liga,,H,Real Madrid,Athletic Bilbao,win,1,0,90,8.65,7.0,4.0,0.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_629,2013-08-26,13/14,La Liga,,A,Granada,Real Madrid,win,0,1,90,8.08,9.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_628,2013-08-18,13/14,La Liga,,H,Real Madrid,Real Betis,win,0,0,90,8.15,11.0,4.0,2.0,No,,Ronaldo,Real Madrid
+r_627,2013-08-14,13/14,International Friendly,,H,Portugal,Netherlands,draw,1,0,90,7.25,7.0,4.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_626,2013-06-10,12/13,International Friendly,,N,Portugal,Croatia,win,1,0,45,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_625,2013-06-07,12/13,World Cup Qualifier,,H,Portugal,Russia,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_624,2013-05-17,12/13,Copa del Rey,Final,H,Real Madrid,Atletico Madrid,loss,1,0,115,7.95,4.0,1.0,3.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_623,2013-05-11,12/13,La Liga,,A,Espanyol,Real Madrid,draw,0,0,34,6.44,3.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_622,2013-05-08,12/13,La Liga,,H,Real Madrid,Malaga,win,1,2,90,9.06,9.0,3.0,3.0,Yes,"1 free kick goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_621,2013-05-04,12/13,La Liga,,H,Real Madrid,Real Valladolid,win,2,0,90,9.54,7.0,3.0,4.0,Yes,"2 inside box goal, 2 header goal",Ronaldo,Real Madrid
+r_620,2013-04-30,12/13,Champs League,SF,H,Real Madrid,Borussia Dortmund,win,0,0,90,7.36,6.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_619,2013-04-24,12/13,Champs League,SF,A,Borussia Dortmund,Real Madrid,loss,1,0,90,7.16,5.0,3.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_618,2013-04-20,12/13,La Liga,,H,Real Madrid,Real Betis,win,0,1,90,9.07,7.0,3.0,4.0,Yes,,Ronaldo,Real Madrid
+r_617,2013-04-14,12/13,La Liga,,A,Athletic Bilbao,Real Madrid,win,2,1,79,10.0,6.0,3.0,2.0,Yes,"1 free kick goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_616,2013-04-09,12/13,Champs League,QF,A,Galatasaray,Real Madrid,loss,2,0,90,8.89,5.0,3.0,2.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_615,2013-04-06,12/13,La Liga,,H,Real Madrid,Levante,win,1,1,45,8.28,4.0,3.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_614,2013-04-03,12/13,Champs League,QF,H,Real Madrid,Galatasaray,win,1,0,90,7.83,7.0,2.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_613,2013-03-30,12/13,La Liga,,A,Real Zaragoza,Real Madrid,draw,1,0,90,7.43,5.0,3.0,0.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_612,2013-03-22,12/13,World Cup Qualifier,,A,Israel,Portugal,draw,0,1,90,,,,,,,Ronaldo,Portugal
+r_611,2013-03-16,12/13,La Liga,,H,Real Madrid,Mallorca,win,1,0,90,8.95,11.0,4.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_610,2013-03-10,12/13,La Liga,,A,Celta Vigo,Real Madrid,win,2,0,90,8.28,7.0,3.0,2.0,No,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_609,2013-03-05,12/13,Champs League,R16,A,Manchester United,Real Madrid,win,1,0,90,8.06,11.0,5.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_608,2013-03-02,12/13,La Liga,,H,Real Madrid,Barcelona,win,0,0,33,6.94,6.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_607,2013-02-26,12/13,Copa del Rey,SF,A,Barcelona,Real Madrid,win,2,0,90,9.19,9.0,5.0,0.0,Yes,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_606,2013-02-23,12/13,La Liga,,A,Deportivo La Coruna,Real Madrid,win,0,1,33,7.54,4.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_605,2013-02-17,12/13,La Liga,,H,Real Madrid,Rayo Vallecano,win,0,0,90,7.22,2.0,1.0,5.0,No,,Ronaldo,Real Madrid
+r_604,2013-02-13,12/13,Champs League,R16,H,Real Madrid,Manchester United,draw,1,0,90,7.84,10.0,2.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_603,2013-02-09,12/13,La Liga,,H,Real Madrid,Sevilla,win,3,0,63,10.0,8.0,5.0,3.0,Yes,"2 inside box goal, 1 outside box goal, 2 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_602,2013-02-06,12/13,International Friendly,,H,Portugal,Ecuador,loss,1,0,62,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_601,2013-02-02,12/13,La Liga,,A,Granada,Real Madrid,loss,0,0,90,6.46,8.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_600,2013-01-30,12/13,Copa del Rey,SF,H,Real Madrid,Barcelona,draw,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_599,2013-01-27,12/13,La Liga,,H,Real Madrid,Getafe,win,3,0,73,9.42,7.0,5.0,2.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_598,2013-01-23,12/13,Copa del Rey,QF,A,Valencia,Real Madrid,draw,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_597,2013-01-20,12/13,La Liga,,A,Valencia,Real Madrid,win,2,1,90,9.92,3.0,2.0,1.0,No,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_596,2013-01-15,12/13,Copa del Rey,QF,H,Real Madrid,Valencia,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_595,2013-01-09,12/13,Copa del Rey,R16,H,Real Madrid,Celta Vigo,win,3,1,90,,,,,,"2 inside box goal, 1 outside box goal, 2 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_594,2013-01-06,12/13,La Liga,,H,Real Madrid,Real Sociedad,win,2,0,90,9.21,14.0,5.0,0.0,Yes,"1 free kick goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_593,2012-12-22,12/13,La Liga,,A,Malaga,Real Madrid,loss,0,0,90,7.01,7.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_592,2012-12-16,12/13,La Liga,,H,Real Madrid,Espanyol,draw,1,1,90,7.78,9.0,3.0,4.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_591,2012-12-12,12/13,Copa del Rey,R16,A,Celta Vigo,Real Madrid,loss,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_590,2012-12-08,12/13,La Liga,,A,Real Valladolid,Real Madrid,win,0,0,90,6.81,7.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_589,2012-12-04,12/13,Champs League,Group,H,Real Madrid,Ajax,win,1,1,90,7.76,5.0,2.0,1.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_588,2012-12-01,12/13,La Liga,,H,Real Madrid,Atletico Madrid,win,1,1,90,9.97,9.0,4.0,2.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_587,2012-11-24,12/13,La Liga,,A,Real Betis,Real Madrid,loss,0,0,90,6.9,7.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_586,2012-11-21,12/13,Champs League,Group,A,Manchester City,Real Madrid,draw,0,0,90,8.2,4.0,3.0,5.0,Yes,,Ronaldo,Real Madrid
+r_585,2012-11-17,12/13,La Liga,,H,Real Madrid,Athletic Bilbao,win,0,0,90,8.49,11.0,7.0,4.0,No,,Ronaldo,Real Madrid
+r_584,2012-11-11,12/13,La Liga,,A,Levante,Real Madrid,win,1,0,45,7.16,4.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_583,2012-11-06,12/13,Champs League,Group,H,Real Madrid,Borussia Dortmund,draw,0,0,90,6.18,6.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_582,2012-11-03,12/13,La Liga,,H,Real Madrid,Real Zaragoza,win,0,0,90,7.63,9.0,5.0,1.0,No,,Ronaldo,Real Madrid
+r_581,2012-10-28,12/13,La Liga,,A,Mallorca,Real Madrid,win,2,1,90,10.0,7.0,4.0,1.0,Yes,"1 inside box goal, 1 outside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_580,2012-10-24,12/13,Champs League,Group,A,Borussia Dortmund,Real Madrid,loss,1,0,90,6.95,3.0,1.0,1.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_579,2012-10-20,12/13,La Liga,,H,Real Madrid,Celta Vigo,win,1,0,90,7.24,9.0,1.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_578,2012-10-16,12/13,World Cup Qualifier,,H,Portugal,Northern Ireland,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_577,2012-10-12,12/13,World Cup Qualifier,,A,Russia,Portugal,loss,0,0,90,6.7,5.0,2.0,2.0,No,,Ronaldo,Portugal
+r_576,2012-10-07,12/13,La Liga,,A,Barcelona,Real Madrid,draw,2,0,90,8.43,4.0,2.0,1.0,No,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_575,2012-10-03,12/13,Champs League,Group,A,Ajax,Real Madrid,win,3,0,90,9.52,9.0,6.0,3.0,Yes,"2 inside box goal, 1 outside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_574,2012-09-30,12/13,La Liga,,H,Real Madrid,Deportivo La Coruna,win,3,0,90,9.61,9.0,7.0,2.0,Yes,"2 pen goal, 1 inside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_573,2012-09-24,12/13,La Liga,,A,Rayo Vallecano,Real Madrid,win,1,0,90,7.72,6.0,2.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_572,2012-09-18,12/13,Champs League,Group,H,Real Madrid,Manchester City,win,1,0,90,9.45,10.0,3.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_571,2012-09-15,12/13,La Liga,,A,Sevilla,Real Madrid,loss,0,0,90,6.83,7.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_570,2012-09-11,12/13,World Cup Qualifier,,H,Portugal,Azerbaijan,win,0,1,90,,,,,,,Ronaldo,Portugal
+r_569,2012-09-07,12/13,World Cup Qualifier,,A,Luxembourg,Portugal,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_568,2012-09-02,12/13,La Liga,,H,Real Madrid,Granada,win,2,0,64,9.07,8.0,4.0,0.0,Yes,"2 inside box goal, 2 left foot goal",Ronaldo,Real Madrid
+r_567,2012-08-29,12/13,Supercopa de Espana,Final,H,Real Madrid,Barcelona,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_566,2012-08-26,12/13,La Liga,,A,Getafe,Real Madrid,loss,0,0,90,6.43,6.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_565,2012-08-23,12/13,Supercopa de Espana,Final,A,Barcelona,Real Madrid,loss,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_564,2012-08-19,12/13,La Liga,,H,Real Madrid,Valencia,draw,0,0,90,6.44,5.0,0.0,4.0,No,,Ronaldo,Real Madrid
+r_563,2012-08-15,12/13,International Friendly,,H,Portugal,Panama,win,1,0,61,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Portugal
+r_562,2012-06-27,11/12,UEFA Euros,SF,N,Portugal,Spain,loss,0,0,120,6.67,7.0,0.0,2.0,No,,Ronaldo,Portugal
+r_561,2012-06-21,11/12,UEFA Euros,QF,N,Portugal,Czech Republic,win,1,0,90,8.23,8.0,1.0,1.0,No,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_560,2012-06-17,11/12,UEFA Euros,Group,N,Portugal,Netherlands,win,2,0,90,9.35,12.0,4.0,3.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Portugal
+r_559,2012-06-13,11/12,UEFA Euros,Group,N,Portugal,Denmark,win,0,0,90,6.41,6.0,2.0,1.0,No,,Ronaldo,Portugal
+r_558,2012-06-09,11/12,UEFA Euros,Group,N,Portugal,Germany,loss,0,0,90,6.87,4.0,2.0,3.0,No,,Ronaldo,Portugal
+r_557,2012-06-02,11/12,International Friendly,,H,Portugal,Turkey,loss,0,1,90,,,,,,1 pen missed,Ronaldo,Portugal
+r_556,2012-05-26,11/12,International Friendly,,H,Portugal,North Macedonia,draw,0,0,73,,,,,,,Ronaldo,Portugal
+r_555,2012-05-13,11/12,La Liga,,H,Real Madrid,Mallorca,win,1,0,90,8.52,9.0,3.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_554,2012-05-05,11/12,La Liga,,A,Granada,Real Madrid,win,1,0,90,7.89,6.0,2.0,1.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_553,2012-05-02,11/12,La Liga,,A,Athletic Bilbao,Real Madrid,win,1,1,90,8.09,10.0,6.0,1.0,No,"1 inside box goal, 1 header goal, 1 pen missed",Ronaldo,Real Madrid
+r_552,2012-04-29,11/12,La Liga,,H,Real Madrid,Sevilla,win,1,0,90,8.61,5.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_551,2012-04-25,11/12,Champs League,SF,H,Real Madrid,Bayern Munich,loss,2,0,120,7.91,10.0,4.0,1.0,No,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_550,2012-04-21,11/12,La Liga,,A,Barcelona,Real Madrid,win,1,0,90,7.5,6.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_549,2012-04-17,11/12,Champs League,SF,A,Bayern Munich,Real Madrid,loss,0,1,90,7.58,5.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_548,2012-04-14,11/12,La Liga,,H,Real Madrid,Sporting Gijon,win,1,0,90,8.06,7.0,1.0,4.0,Yes,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_547,2012-04-11,11/12,La Liga,,A,Atletico Madrid,Real Madrid,win,3,1,90,10.0,11.0,6.0,1.0,Yes,"1 pen goal, 1 free kick goal, 1 outside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_546,2012-04-08,11/12,La Liga,,H,Real Madrid,Valencia,draw,0,0,90,7.01,10.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_545,2012-04-04,11/12,Champs League,QF,H,Real Madrid,APOEL,win,2,0,90,9.55,6.0,4.0,5.0,Yes,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_544,2012-03-31,11/12,La Liga,,A,Osasuna,Real Madrid,win,2,2,90,10.0,4.0,3.0,4.0,Yes,"1 free kick goal, 1 outside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_543,2012-03-27,11/12,Champs League,QF,A,APOEL,Real Madrid,win,0,0,90,8.34,10.0,2.0,3.0,No,,Ronaldo,Real Madrid
+r_542,2012-03-24,11/12,La Liga,,H,Real Madrid,Real Sociedad,win,2,0,81,8.44,7.0,3.0,1.0,No,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_541,2012-03-21,11/12,La Liga,,A,Villarreal,Real Madrid,draw,1,0,90,8.28,10.0,3.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_540,2012-03-18,11/12,La Liga,,H,Real Madrid,Malaga,draw,0,1,90,7.06,3.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_539,2012-03-14,11/12,Champs League,R16,H,Real Madrid,CSKA Moscow,win,2,0,90,8.94,7.0,4.0,1.0,Yes,"1 inside box goal, 1 outside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_538,2012-03-10,11/12,La Liga,,A,Real Betis,Real Madrid,win,2,0,90,8.84,10.0,6.0,0.0,Yes,"2 inside box goal, 2 left foot goal",Ronaldo,Real Madrid
+r_537,2012-03-04,11/12,La Liga,,H,Real Madrid,Espanyol,win,1,0,90,8.83,9.0,3.0,4.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_536,2012-02-29,11/12,International Friendly,,A,Poland,Portugal,draw,0,0,76,,,,,,,Ronaldo,Portugal
+r_535,2012-02-26,11/12,La Liga,,A,Rayo Vallecano,Real Madrid,win,1,0,90,8.27,7.0,3.0,0.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_534,2012-02-21,11/12,Champs League,R16,A,CSKA Moscow,Real Madrid,draw,1,0,90,7.79,6.0,2.0,2.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_533,2012-02-18,11/12,La Liga,,H,Real Madrid,Racing Santander,win,1,0,90,8.43,8.0,2.0,2.0,No,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_532,2012-02-12,11/12,La Liga,,H,Real Madrid,Levante,win,3,1,90,9.08,11.0,4.0,2.0,Yes,"1 pen goal, 1 inside box goal, 1 outside box goal, 2 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_531,2012-02-04,11/12,La Liga,,A,Getafe,Real Madrid,win,0,0,90,6.96,4.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_530,2012-01-28,11/12,La Liga,,H,Real Madrid,Real Zaragoza,win,1,0,90,7.59,6.0,1.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_529,2012-01-25,11/12,Copa del Rey,QF,A,Barcelona,Real Madrid,draw,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_528,2012-01-22,11/12,La Liga,,H,Real Madrid,Athletic Bilbao,win,2,0,90,7.86,6.0,2.0,2.0,No,"2 pen goal, 2 right foot goal",Ronaldo,Real Madrid
+r_527,2012-01-18,11/12,Copa del Rey,QF,H,Real Madrid,Barcelona,loss,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_526,2012-01-14,11/12,La Liga,,A,Mallorca,Real Madrid,win,0,0,90,7.46,3.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_525,2012-01-10,11/12,Copa del Rey,R16,A,Malaga,Real Madrid,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_524,2012-01-07,11/12,La Liga,,H,Real Madrid,Granada,win,1,0,90,8.0,10.0,1.0,2.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_523,2012-01-03,11/12,Copa del Rey,R16,H,Real Madrid,Malaga,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_522,2011-12-17,11/12,La Liga,,A,Sevilla,Real Madrid,win,3,0,90,9.1,8.0,4.0,1.0,No,"1 pen goal, 1 inside box goal, 1 outside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_521,2011-12-13,11/12,Copa del Rey,R32,A,SD Ponferradina,Real Madrid,win,1,0,78,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_520,2011-12-10,11/12,La Liga,,H,Real Madrid,Barcelona,loss,0,0,90,6.97,7.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_519,2011-12-03,11/12,La Liga,,A,Sporting Gijon,Real Madrid,win,1,0,90,8.99,7.0,1.0,5.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_518,2011-11-26,11/12,La Liga,,H,Real Madrid,Atletico Madrid,win,2,1,90,9.03,6.0,3.0,1.0,Yes,"2 pen goal, 2 right foot goal",Ronaldo,Real Madrid
+r_517,2011-11-19,11/12,La Liga,,A,Valencia,Real Madrid,win,1,0,90,7.86,5.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_516,2011-11-15,11/12,Euros Qualifier,Play-off,H,Portugal,Bosnia and Herzegovina,win,2,0,90,,,,,,"1 free kick goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_515,2011-11-11,11/12,Euros Qualifier,Play-off,A,Bosnia and Herzegovina,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_514,2011-11-06,11/12,La Liga,,H,Real Madrid,Osasuna,win,3,0,90,9.03,5.0,3.0,1.0,No,"1 pen goal, 2 inside box goal, 1 right foot goal, 2 header goal",Ronaldo,Real Madrid
+r_513,2011-11-02,11/12,Champs League,Group,A,Lyon,Real Madrid,win,2,0,90,9.37,9.0,4.0,2.0,Yes,"1 pen goal, 1 free kick goal, 2 right foot goal",Ronaldo,Real Madrid
+r_512,2011-10-29,11/12,La Liga,,A,Real Sociedad,Real Madrid,win,0,0,90,7.15,5.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_511,2011-10-26,11/12,La Liga,,H,Real Madrid,Villarreal,win,0,0,90,7.64,2.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_510,2011-10-22,11/12,La Liga,,A,Malaga,Real Madrid,win,3,0,90,10.0,5.0,4.0,2.0,Yes,"3 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_509,2011-10-18,11/12,Champs League,Group,H,Real Madrid,Lyon,win,0,1,90,8.54,10.0,1.0,4.0,No,,Ronaldo,Real Madrid
+r_508,2011-10-15,11/12,La Liga,,H,Real Madrid,Real Betis,win,0,2,78,7.63,4.0,1.0,4.0,No,,Ronaldo,Real Madrid
+r_507,2011-10-11,11/12,Euros Qualifier,,A,Denmark,Portugal,loss,1,0,90,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Portugal
+r_506,2011-10-07,11/12,Euros Qualifier,,H,Portugal,Iceland,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_505,2011-10-02,11/12,La Liga,,A,Espanyol,Real Madrid,win,0,2,90,8.66,7.0,2.0,4.0,No,,Ronaldo,Real Madrid
+r_504,2011-09-27,11/12,Champs League,Group,H,Real Madrid,Ajax,win,1,1,90,7.94,3.0,2.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_503,2011-09-24,11/12,La Liga,,H,Real Madrid,Rayo Vallecano,win,3,0,90,9.79,6.0,3.0,2.0,Yes,"2 pen goal, 1 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_502,2011-09-21,11/12,La Liga,,A,Racing Santander,Real Madrid,draw,0,0,90,6.96,5.0,0.0,1.0,No,,Ronaldo,Real Madrid
+r_501,2011-09-18,11/12,La Liga,,A,Levante,Real Madrid,loss,0,0,45,5.95,5.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_500,2011-09-14,11/12,Champs League,Group,A,Dinamo Zagreb,Real Madrid,win,0,0,90,7.85,8.0,4.0,2.0,No,,Ronaldo,Real Madrid
+r_499,2011-09-10,11/12,La Liga,,H,Real Madrid,Getafe,win,1,1,90,8.99,9.0,4.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_498,2011-09-02,11/12,Euros Qualifier,,A,Cyprus,Portugal,win,2,1,90,,,,,,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_497,2011-08-28,11/12,La Liga,,A,Real Zaragoza,Real Madrid,win,3,0,90,10.0,16.0,8.0,0.0,Yes,"3 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_496,2011-08-17,11/12,Supercopa de Espana,Final,A,Barcelona,Real Madrid,loss,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_495,2011-08-14,11/12,Supercopa de Espana,Final,H,Real Madrid,Barcelona,draw,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_494,2011-08-10,11/12,International Friendly,,H,Portugal,Luxembourg,win,1,1,45,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Portugal
+r_493,2011-06-04,10/11,Euros Qualifier,,H,Portugal,Norway,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_492,2011-05-21,10/11,La Liga,,H,Real Madrid,Almeria,win,2,3,90,10.0,6.0,4.0,7.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_491,2011-05-15,10/11,La Liga,,A,Villarreal,Real Madrid,win,2,0,90,9.13,3.0,3.0,0.0,Yes,"2 free kick goal, 2 right foot goal",Ronaldo,Real Madrid
+r_490,2011-05-10,10/11,La Liga,,H,Real Madrid,Getafe,win,3,0,90,9.92,11.0,4.0,3.0,Yes,"1 pen goal, 2 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_489,2011-05-07,10/11,La Liga,,A,Sevilla,Real Madrid,win,4,0,90,10.0,11.0,6.0,1.0,Yes,"4 inside box goal, 4 right foot goal",Ronaldo,Real Madrid
+r_488,2011-05-03,10/11,Champs League,SF,A,Barcelona,Real Madrid,draw,0,0,90,6.88,0.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_487,2011-04-27,10/11,Champs League,SF,H,Real Madrid,Barcelona,loss,0,0,90,7.07,8.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_486,2011-04-23,10/11,La Liga,,A,Valencia,Real Madrid,win,0,0,23,5.78,0.0,0.0,0.0,No,,Ronaldo,Real Madrid
+r_485,2011-04-20,10/11,Copa del Rey,Final,N,Real Madrid,Barcelona,win,1,0,120,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Real Madrid
+r_484,2011-04-16,10/11,La Liga,,H,Real Madrid,Barcelona,draw,1,0,90,7.08,7.0,3.0,0.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_483,2011-04-13,10/11,Champs League,QF,A,Tottenham Hotspur,Real Madrid,win,1,0,65,7.66,3.0,1.0,1.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_482,2011-04-09,10/11,La Liga,,A,Athletic Bilbao,Real Madrid,win,1,0,29,7.51,4.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_481,2011-04-05,10/11,Champs League,QF,H,Real Madrid,Tottenham Hotspur,win,1,0,90,8.41,14.0,3.0,3.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_480,2011-03-19,10/11,La Liga,,A,Atletico Madrid,Real Madrid,win,0,0,72,7.5,9.0,2.0,0.0,No,,Ronaldo,Real Madrid
+r_479,2011-03-16,10/11,Champs League,R16,H,Real Madrid,Lyon,win,0,1,74,7.76,5.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_478,2011-03-03,10/11,La Liga,,H,Real Madrid,Malaga,win,3,0,78,10.0,7.0,6.0,0.0,No,"1 pen goal, 2 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_477,2011-02-26,10/11,La Liga,,A,Deportivo La Coruna,Real Madrid,draw,0,0,90,8.24,8.0,4.0,2.0,No,,Ronaldo,Real Madrid
+r_476,2011-02-22,10/11,Champs League,R16,A,Lyon,Real Madrid,draw,0,1,90,7.8,3.0,1.0,3.0,Yes,,Ronaldo,Real Madrid
+r_475,2011-02-19,10/11,La Liga,,H,Real Madrid,Levante,win,0,1,90,7.67,10.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_474,2011-02-13,10/11,La Liga,,A,Espanyol,Real Madrid,win,0,1,90,8.68,7.0,2.0,6.0,No,,Ronaldo,Real Madrid
+r_473,2011-02-09,10/11,International Friendly,,N,Portugal,Argentina,loss,1,0,61,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_472,2011-02-06,10/11,La Liga,,H,Real Madrid,Real Sociedad,win,2,0,90,9.21,15.0,4.0,2.0,Yes,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_471,2011-02-02,10/11,Copa del Rey,SF,H,Real Madrid,Sevilla,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_470,2011-01-30,10/11,La Liga,,A,Osasuna,Real Madrid,loss,0,0,90,6.57,9.0,2.0,2.0,No,,Ronaldo,Real Madrid
+r_469,2011-01-26,10/11,Copa del Rey,SF,A,Sevilla,Real Madrid,win,0,0,90,,,,,,,Ronaldo,Real Madrid
+r_468,2011-01-23,10/11,La Liga,,H,Real Madrid,Mallorca,win,0,0,90,7.45,7.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_467,2011-01-20,10/11,Copa del Rey,QF,A,Atletico Madrid,Real Madrid,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_466,2011-01-16,10/11,La Liga,,A,Almeria,Real Madrid,draw,0,0,90,7.28,9.0,5.0,1.0,No,,Ronaldo,Real Madrid
+r_465,2011-01-13,10/11,Copa del Rey,QF,H,Real Madrid,Atletico Madrid,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_464,2011-01-09,10/11,La Liga,,H,Real Madrid,Villarreal,win,3,1,90,9.98,5.0,3.0,6.0,Yes,"3 inside box goal, 1 left foot goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_463,2011-01-03,10/11,La Liga,,A,Getafe,Real Madrid,win,2,0,90,8.97,8.0,3.0,2.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_462,2010-12-22,10/11,Copa del Rey,R16,H,Real Madrid,Levante,win,3,1,90,,,,,,"3 inside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_461,2010-12-19,10/11,La Liga,,H,Real Madrid,Sevilla,win,0,0,90,7.37,4.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_460,2010-12-12,10/11,La Liga,,A,Real Zaragoza,Real Madrid,win,1,0,90,7.94,6.0,1.0,2.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_459,2010-12-08,10/11,Champs League,Group,H,Real Madrid,Auxerre,win,1,1,72,8.54,2.0,1.0,2.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_458,2010-12-04,10/11,La Liga,,H,Real Madrid,Valencia,win,2,0,90,9.89,9.0,5.0,3.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_457,2010-11-29,10/11,La Liga,,A,Barcelona,Real Madrid,loss,0,0,90,6.48,3.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_456,2010-11-23,10/11,Champs League,Group,A,Ajax,Real Madrid,win,2,0,90,9.78,7.0,3.0,5.0,Yes,"1 pen goal, 1 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_455,2010-11-20,10/11,La Liga,,H,Real Madrid,Athletic Bilbao,win,3,0,90,9.24,8.0,3.0,1.0,Yes,"1 pen goal, 1 free kick goal, 1 outside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Real Madrid
+r_454,2010-11-17,10/11,International Friendly,,H,Portugal,Spain,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_453,2010-11-14,10/11,La Liga,,A,Sporting Gijon,Real Madrid,win,0,0,90,7.79,1.0,0.0,2.0,No,,Ronaldo,Real Madrid
+r_452,2010-11-10,10/11,Copa del Rey,R32,H,Real Madrid,Real Murcia,win,1,0,45,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_451,2010-11-07,10/11,La Liga,,H,Real Madrid,Atletico Madrid,win,0,0,90,8.27,8.0,3.0,2.0,No,,Ronaldo,Real Madrid
+r_450,2010-11-03,10/11,Champs League,Group,A,AC Milan,Real Madrid,draw,0,0,90,6.71,6.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_449,2010-10-30,10/11,La Liga,,A,Hercules,Real Madrid,win,2,0,90,8.59,12.0,5.0,2.0,Yes,"2 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_448,2010-10-26,10/11,Copa del Rey,R32,A,Real Murcia,Real Madrid,draw,0,0,69,,,,,,,Ronaldo,Real Madrid
+r_447,2010-10-23,10/11,La Liga,,H,Real Madrid,Racing Santander,win,4,0,90,10.0,6.0,5.0,3.0,Yes,"1 pen goal, 3 inside box goal, 1 left foot goal, 3 right foot goal",Ronaldo,Real Madrid
+r_446,2010-10-19,10/11,Champs League,Group,H,Real Madrid,AC Milan,win,1,1,90,8.8,8.0,3.0,2.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_445,2010-10-16,10/11,La Liga,,A,Malaga,Real Madrid,win,2,2,90,10.0,6.0,3.0,3.0,Yes,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_444,2010-10-12,10/11,Euros Qualifier,,A,Iceland,Portugal,win,1,0,90,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Portugal
+r_443,2010-10-08,10/11,Euros Qualifier,,H,Portugal,Denmark,win,1,1,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_442,2010-10-03,10/11,La Liga,,H,Real Madrid,Deportivo La Coruna,win,2,0,90,9.13,8.0,4.0,1.0,No,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_441,2010-09-28,10/11,Champs League,Group,A,Auxerre,Real Madrid,win,0,0,90,7.1,6.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_440,2010-09-25,10/11,La Liga,,A,Levante,Real Madrid,draw,0,0,90,7.25,9.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_439,2010-09-21,10/11,La Liga,,H,Real Madrid,Espanyol,win,1,1,90,8.32,7.0,3.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_438,2010-09-18,10/11,La Liga,,A,Real Sociedad,Real Madrid,win,0,1,90,7.72,9.0,2.0,4.0,No,,Ronaldo,Real Madrid
+r_437,2010-09-15,10/11,Champs League,Group,H,Real Madrid,Ajax,win,0,0,90,7.94,11.0,5.0,2.0,No,,Ronaldo,Real Madrid
+r_436,2010-09-11,10/11,La Liga,,H,Real Madrid,Osasuna,win,0,1,90,7.74,11.0,3.0,4.0,No,,Ronaldo,Real Madrid
+r_435,2010-08-29,10/11,La Liga,,A,Mallorca,Real Madrid,draw,0,0,90,7.07,7.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_434,2010-06-29,09/10,World Cup,R16,N,Portugal,Spain,loss,0,0,90,6.8,4.0,2.0,0.0,No,,Ronaldo,Portugal
+r_433,2010-06-25,09/10,World Cup,Group,N,Portugal,Brazil,draw,0,0,90,6.7,8.0,1.0,2.0,No,,Ronaldo,Portugal
+r_432,2010-06-21,09/10,World Cup,Group,N,Portugal,North Korea,win,1,1,90,9.0,7.0,4.0,5.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_431,2010-06-15,09/10,World Cup,Group,N,Portugal,Ivory Coast,draw,0,0,90,7.0,3.0,0.0,0.0,No,,Ronaldo,Portugal
+r_430,2010-06-08,09/10,International Friendly,,N,Portugal,Mozambique,win,0,0,27,,,,,,,Ronaldo,Portugal
+r_429,2010-06-01,09/10,International Friendly,,H,Portugal,Cameroon,win,0,1,90,,,,,,,Ronaldo,Portugal
+r_428,2010-05-24,09/10,International Friendly,,H,Portugal,Cape Verde,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_427,2010-05-16,09/10,La Liga,,A,Malaga,Real Madrid,draw,0,0,90,6.72,3.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_426,2010-05-08,09/10,La Liga,,H,Real Madrid,Athletic Bilbao,win,1,0,90,9.12,8.0,4.0,3.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_425,2010-05-05,09/10,La Liga,,A,Mallorca,Real Madrid,win,3,0,83,10.0,7.0,5.0,1.0,Yes,"3 inside box goal, 3 right foot goal",Ronaldo,Real Madrid
+r_424,2010-05-02,09/10,La Liga,,H,Real Madrid,Osasuna,win,2,0,90,10.0,13.0,7.0,3.0,Yes,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_423,2010-04-24,09/10,La Liga,,A,Real Zaragoza,Real Madrid,win,0,2,90,9.12,7.0,5.0,4.0,Yes,,Ronaldo,Real Madrid
+r_422,2010-04-18,09/10,La Liga,,H,Real Madrid,Valencia,win,1,0,90,9.19,10.0,6.0,3.0,Yes,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_421,2010-04-15,09/10,La Liga,,A,Almeria,Real Madrid,win,1,0,90,9.36,9.0,5.0,3.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_420,2010-04-10,09/10,La Liga,,H,Real Madrid,Barcelona,loss,0,0,90,7.36,4.0,3.0,1.0,No,,Ronaldo,Real Madrid
+r_419,2010-04-04,09/10,La Liga,,A,Racing Santander,Real Madrid,win,1,0,90,8.97,8.0,2.0,2.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_418,2010-03-28,09/10,La Liga,,H,Real Madrid,Atletico Madrid,win,0,0,90,7.52,12.0,2.0,4.0,No,,Ronaldo,Real Madrid
+r_417,2010-03-25,09/10,La Liga,,A,Getafe,Real Madrid,win,2,0,90,9.64,7.0,5.0,0.0,Yes,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_416,2010-03-20,09/10,La Liga,,H,Real Madrid,Sporting Gijon,win,0,1,90,7.85,8.0,3.0,2.0,No,,Ronaldo,Real Madrid
+r_415,2010-03-14,09/10,La Liga,,A,Real Valladolid,Real Madrid,win,1,1,90,9.46,8.0,3.0,3.0,No,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_414,2010-03-10,09/10,Champs League,R16,H,Real Madrid,Lyon,draw,1,0,90,8.78,5.0,2.0,3.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_413,2010-03-06,09/10,La Liga,,H,Real Madrid,Sevilla,win,1,0,90,9.35,10.0,4.0,6.0,Yes,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_412,2010-03-03,09/10,International Friendly,,H,Portugal,China,win,0,1,45,,,,,,,Ronaldo,Portugal
+r_411,2010-02-27,09/10,La Liga,,A,Tenerife,Real Madrid,win,1,0,90,8.23,7.0,2.0,1.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_410,2010-02-21,09/10,La Liga,,H,Real Madrid,Villarreal,win,1,2,90,10.0,5.0,4.0,6.0,Yes,"1 free kick goal, 1 right foot goal",Ronaldo,Real Madrid
+r_409,2010-02-16,09/10,Champs League,R16,A,Lyon,Real Madrid,loss,0,0,90,6.72,6.0,2.0,1.0,No,,Ronaldo,Real Madrid
+r_408,2010-02-13,09/10,La Liga,,A,Xerez,Real Madrid,win,2,0,90,10.0,11.0,5.0,4.0,Yes,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Real Madrid
+r_407,2010-01-24,09/10,La Liga,,H,Real Madrid,Malaga,win,2,0,70,7.7,5.0,3.0,0.0,No,"1 inside box goal, 1 outside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_406,2010-01-16,09/10,La Liga,,A,Athletic Bilbao,Real Madrid,loss,0,0,90,6.64,9.0,3.0,3.0,No,,Ronaldo,Real Madrid
+r_405,2010-01-10,09/10,La Liga,,H,Real Madrid,Mallorca,win,0,0,90,7.08,6.0,1.0,2.0,No,,Ronaldo,Real Madrid
+r_404,2010-01-03,09/10,La Liga,,A,Osasuna,Real Madrid,draw,0,0,90,6.74,4.0,0.0,3.0,No,,Ronaldo,Real Madrid
+r_403,2009-12-19,09/10,La Liga,,H,Real Madrid,Real Zaragoza,win,1,0,90,9.32,7.0,2.0,1.0,No,"1 inside box goal, 1 left foot goal",Ronaldo,Real Madrid
+r_402,2009-12-08,09/10,Champs League,Group,A,Marseille,Real Madrid,win,2,1,90,9.63,5.0,3.0,3.0,Yes,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Real Madrid
+r_401,2009-12-05,09/10,La Liga,,H,Real Madrid,Almeria,win,1,1,88,9.18,11.0,5.0,7.0,Yes,"1 inside box goal, 1 right foot goal, 1 pen missed",Ronaldo,Real Madrid
+r_400,2009-11-29,09/10,La Liga,,A,Barcelona,Real Madrid,loss,0,0,66,6.81,3.0,1.0,1.0,No,,Ronaldo,Real Madrid
+r_399,2009-11-25,09/10,Champs League,Group,H,Real Madrid,FC Zurich,win,0,0,20,6.42,3.0,1.0,0.0,No,,Ronaldo,Real Madrid
+r_398,2009-10-10,09/10,World Cup Qualifier,,H,Portugal,Hungary,win,0,0,27,,,,,,,Ronaldo,Portugal
+r_397,2009-09-30,09/10,Champs League,Group,H,Real Madrid,Marseille,win,2,0,70,9.63,5.0,4.0,0.0,Yes,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Real Madrid
+r_396,2009-09-26,09/10,La Liga,,H,Real Madrid,Tenerife,win,0,0,80,7.71,8.0,3.0,0.0,No,,Ronaldo,Real Madrid
+r_395,2009-09-23,09/10,La Liga,,A,Villarreal,Real Madrid,win,1,0,90,8.84,6.0,3.0,4.0,No,"1 outside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_394,2009-09-20,09/10,La Liga,,H,Real Madrid,Xerez,win,2,0,79,9.26,5.0,3.0,3.0,Yes,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Real Madrid
+r_393,2009-09-15,09/10,Champs League,Group,A,FC Zurich,Real Madrid,win,2,0,90,9.61,8.0,3.0,2.0,Yes,"2 free kick goal, 2 right foot goal",Ronaldo,Real Madrid
+r_392,2009-09-12,09/10,La Liga,,A,Espanyol,Real Madrid,win,1,0,25,7.58,3.0,2.0,0.0,No,"1 inside box goal, 1 right foot goal",Ronaldo,Real Madrid
+r_391,2009-09-09,09/10,World Cup Qualifier,,A,Hungary,Portugal,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_390,2009-09-05,09/10,World Cup Qualifier,,A,Denmark,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_389,2009-08-29,09/10,La Liga,,H,Real Madrid,Deportivo La Coruna,win,1,0,90,8.8,7.0,2.0,4.0,Yes,"1 pen goal, 1 right foot goal",Ronaldo,Real Madrid
+r_388,2009-06-06,08/09,World Cup Qualifier,,A,Albania,Portugal,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_387,2009-05-27,08/09,Champs League,Final,N,Manchester United,Barcelona,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_386,2009-05-16,08/09,Premier League,,H,Manchester United,Arsenal,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_385,2009-05-13,08/09,Premier League,,A,Wigan Athletic,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_384,2009-05-10,08/09,Premier League,,H,Manchester United,Manchester City,win,1,0,59,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_383,2009-05-05,08/09,Champs League,SF,A,Arsenal,Manchester United,win,2,1,90,,,,,,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_382,2009-04-29,08/09,Champs League,SF,H,Manchester United,Arsenal,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_381,2009-04-25,08/09,Premier League,,H,Manchester United,Tottenham Hotspur,win,2,1,90,,,,,,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_380,2009-04-22,08/09,Premier League,,H,Manchester United,Portsmouth,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_379,2009-04-15,08/09,Champs League,QF,A,FC Porto,Manchester United,win,1,0,90,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_378,2009-04-11,08/09,Premier League,,A,Sunderland,Manchester United,win,0,0,21,,,,,,,Ronaldo,Manchester United
+r_377,2009-04-07,08/09,Champs League,QF,H,Manchester United,FC Porto,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_376,2009-04-05,08/09,Premier League,,H,Manchester United,Aston Villa,win,2,0,90,,,,,,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_375,2009-03-31,08/09,International Friendly,,N,Portugal,South Africa,win,0,0,33,,,,,,,Ronaldo,Portugal
+r_374,2009-03-28,08/09,World Cup Qualifier,,H,Portugal,Sweden,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_373,2009-03-21,08/09,Premier League,,A,Fulham,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_372,2009-03-14,08/09,Premier League,,H,Manchester United,Liverpool,loss,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_371,2009-03-11,08/09,Champs League,R16,H,Manchester United,Inter Milan,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_370,2009-03-04,08/09,Premier League,,A,Newcastle United,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_369,2009-03-01,08/09,League Cup,Final,N,Manchester United,Tottenham Hotspur,win,0,0,120,,,,,,,Ronaldo,Manchester United
+r_368,2009-02-24,08/09,Champs League,R16,A,Inter Milan,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_367,2009-02-21,08/09,Premier League,,H,Manchester United,Blackburn Rovers,win,1,0,90,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_366,2009-02-18,08/09,Premier League,,H,Manchester United,Fulham,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_365,2009-02-15,08/09,FA Cup,R16,A,Derby County,Manchester United,win,1,0,72,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_364,2009-02-11,08/09,International Friendly,,H,Portugal,Finland,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Portugal
+r_363,2009-02-08,08/09,Premier League,,A,West Ham United,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_362,2009-01-31,08/09,Premier League,,H,Manchester United,Everton,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_361,2009-01-27,08/09,Premier League,,A,West Bromwich Albion,Manchester United,win,2,0,90,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_360,2009-01-24,08/09,FA Cup,R32,H,Manchester United,Tottenham Hotspur,win,0,0,72,,,,,,,Ronaldo,Manchester United
+r_359,2009-01-20,08/09,League Cup,SF,H,Manchester United,Derby County,win,1,0,32,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_358,2009-01-17,08/09,Premier League,,A,Bolton Wanderers,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_357,2009-01-14,08/09,Premier League,,H,Manchester United,Wigan Athletic,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_356,2009-01-11,08/09,Premier League,,H,Manchester United,Chelsea,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_355,2009-01-07,08/09,League Cup,SF,A,Derby County,Manchester United,loss,0,0,27,,,,,,,Ronaldo,Manchester United
+r_354,2008-12-29,08/09,Premier League,,H,Manchester United,Middlesbrough,win,0,0,85,,,,,,,Ronaldo,Manchester United
+r_353,2008-12-26,08/09,Premier League,,A,Stoke City,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_352,2008-12-21,08/09,Club World Cup,Final,N,Manchester United,Liga de Quito,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_351,2008-12-18,08/09,Club World Cup,SF,N,Manchester United,Gamba Osaka,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_350,2008-12-13,08/09,Premier League,,A,Tottenham Hotspur,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_349,2008-12-06,08/09,Premier League,,H,Manchester United,Sunderland,win,0,0,68,,,,,,,Ronaldo,Manchester United
+r_348,2008-11-30,08/09,Premier League,,A,Manchester City,Manchester United,win,0,0,68,,,,,,,Ronaldo,Manchester United
+r_347,2008-11-25,08/09,Champs League,Group,A,Villarreal,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_346,2008-11-22,08/09,Premier League,,A,Aston Villa,Manchester United,draw,0,0,82,,,,,,,Ronaldo,Manchester United
+r_345,2008-11-20,08/09,International Friendly,,A,Brazil,Portugal,loss,0,0,90,,,,,,,Ronaldo,Portugal
+r_344,2008-11-15,08/09,Premier League,,H,Manchester United,Stoke City,win,2,1,90,,,,,,"2 free kick goal, 2 right foot goal",Ronaldo,Manchester United
+r_343,2008-11-08,08/09,Premier League,,A,Arsenal,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_342,2008-11-05,08/09,Champs League,Group,A,Celtic,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_341,2008-11-01,08/09,Premier League,,H,Manchester United,Hull City,win,2,0,90,,,,,,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 header goal",Ronaldo,Manchester United
+r_340,2008-10-29,08/09,Premier League,,H,Manchester United,West Ham United,win,2,0,90,,,,,,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_339,2008-10-25,08/09,Premier League,,A,Everton,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_338,2008-10-21,08/09,Champs League,Group,H,Manchester United,Celtic,win,0,0,82,,,,,,,Ronaldo,Manchester United
+r_337,2008-10-18,08/09,Premier League,,H,Manchester United,West Bromwich Albion,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_336,2008-10-15,08/09,World Cup Qualifier,,H,Portugal,Albania,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_335,2008-10-11,08/09,World Cup Qualifier,,A,Sweden,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_334,2008-10-04,08/09,Premier League,,A,Blackburn Rovers,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_333,2008-09-30,08/09,Champs League,Group,A,Aalborg,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_332,2008-09-27,08/09,Premier League,,H,Manchester United,Bolton Wanderers,win,1,1,80,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_331,2008-09-23,08/09,League Cup,R32,H,Manchester United,Middlesbrough,win,1,0,61,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_330,2008-09-21,08/09,Premier League,,A,Chelsea,Manchester United,draw,0,0,35,,,,,,,Ronaldo,Manchester United
+r_329,2008-09-17,08/09,Champs League,Group,H,Manchester United,Villarreal,draw,0,0,28,,,,,,,Ronaldo,Manchester United
+r_328,2008-06-19,07/08,UEFA Euros,QF,N,Portugal,Germany,loss,0,0,90,,,,,,,Ronaldo,Portugal
+r_327,2008-06-11,07/08,UEFA Euros,Group,N,Portugal,Czech Republic,win,1,1,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_326,2008-06-07,07/08,UEFA Euros,Group,N,Portugal,Turkey,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_325,2008-05-31,07/08,International Friendly,,H,Portugal,Georgia,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_324,2008-05-21,07/08,Champs League,Final,N,Manchester United,Chelsea,win,1,0,120,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_323,2008-05-11,07/08,Premier League,,A,Wigan Athletic,Manchester United,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_322,2008-05-03,07/08,Premier League,,H,Manchester United,West Ham United,win,2,1,64,,,,,,"2 inside box goal, 1 right foot goal, 1 other goal",Ronaldo,Manchester United
+r_321,2008-04-29,07/08,Champs League,SF,H,Manchester United,Barcelona,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_320,2008-04-26,07/08,Premier League,,A,Chelsea,Manchester United,loss,0,0,27,,,,,,,Ronaldo,Manchester United
+r_319,2008-04-23,07/08,Champs League,SF,A,Barcelona,Manchester United,draw,0,0,90,,,,,,1 pen missed,Ronaldo,Manchester United
+r_318,2008-04-19,07/08,Premier League,,A,Blackburn Rovers,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_317,2008-04-13,07/08,Premier League,,H,Manchester United,Arsenal,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_316,2008-04-06,07/08,Premier League,,A,Middlesbrough,Manchester United,draw,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_315,2008-04-01,07/08,Champs League,QF,A,Roma,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_314,2008-03-29,07/08,Premier League,,H,Manchester United,Aston Villa,win,1,3,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_313,2008-03-23,07/08,Premier League,,H,Manchester United,Liverpool,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_312,2008-03-19,07/08,Premier League,,H,Manchester United,Bolton Wanderers,win,2,0,90,,,,,,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_311,2008-03-15,07/08,Premier League,,A,Derby County,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_310,2008-03-08,07/08,FA Cup,QF,H,Manchester United,Portsmouth,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_309,2008-03-04,07/08,Champs League,R16,H,Manchester United,Lyon,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_308,2008-03-01,07/08,Premier League,,A,Fulham,Manchester United,win,0,0,21,,,,,,,Ronaldo,Manchester United
+r_307,2008-02-23,07/08,Premier League,,A,Newcastle United,Manchester United,win,2,1,67,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_306,2008-02-20,07/08,Champs League,R16,A,Lyon,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_305,2008-02-10,07/08,Premier League,,H,Manchester United,Manchester City,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_304,2008-02-06,07/08,International Friendly,,H,Portugal,Italy,loss,0,0,90,,,,,,,Ronaldo,Portugal
+r_303,2008-02-02,07/08,Premier League,,A,Tottenham Hotspur,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_302,2008-01-30,07/08,Premier League,,H,Manchester United,Portsmouth,win,2,0,74,,,,,,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_301,2008-01-27,07/08,FA Cup,R32,H,Manchester United,Tottenham Hotspur,win,2,0,90,,,,,,"1 pen goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_300,2008-01-19,07/08,Premier League,,A,Reading,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_299,2008-01-12,07/08,Premier League,,H,Manchester United,Newcastle United,win,3,0,90,,,,,,"1 free kick goal, 2 inside box goal, 1 left foot goal, 2 right foot goal",Ronaldo,Manchester United
+r_298,2008-01-05,07/08,FA Cup,R64,A,Aston Villa,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_297,2008-01-01,07/08,Premier League,,H,Manchester United,Birmingham City,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_296,2007-12-29,07/08,Premier League,,A,West Ham United,Manchester United,loss,1,0,90,,,,,,"1 inside box goal, 1 header goal, 1 pen missed",Ronaldo,Manchester United
+r_295,2007-12-26,07/08,Premier League,,A,Sunderland,Manchester United,win,1,0,57,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_294,2007-12-23,07/08,Premier League,,H,Manchester United,Everton,win,2,0,90,,,,,,"1 pen goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_293,2007-12-16,07/08,Premier League,,A,Liverpool,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_292,2007-12-08,07/08,Premier League,,H,Manchester United,Derby County,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_291,2007-12-03,07/08,Premier League,,H,Manchester United,Fulham,win,2,0,90,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_290,2007-11-27,07/08,Champs League,Group,H,Manchester United,Sporting CP,win,1,1,90,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_289,2007-11-21,07/08,Euros Qualifier,,H,Portugal,Finland,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_288,2007-11-17,07/08,Euros Qualifier,,H,Portugal,Armenia,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_287,2007-11-11,07/08,Premier League,,H,Manchester United,Blackburn Rovers,win,2,0,90,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_286,2007-11-07,07/08,Champs League,Group,H,Manchester United,Dynamo Kyiv,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_285,2007-11-03,07/08,Premier League,,A,Arsenal,Manchester United,draw,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_284,2007-10-27,07/08,Premier League,,H,Manchester United,Middlesbrough,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_283,2007-10-23,07/08,Champs League,Group,A,Dynamo Kyiv,Manchester United,win,2,0,90,,,,,,"1 pen goal, 1 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_282,2007-10-20,07/08,Premier League,,A,Aston Villa,Manchester United,win,0,0,14,,,,,,,Ronaldo,Manchester United
+r_281,2007-10-17,07/08,Euros Qualifier,,A,Kazakhstan,Portugal,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_280,2007-10-13,07/08,Euros Qualifier,,A,Azerbaijan,Portugal,win,0,0,90,,,,,,,Ronaldo,Portugal
+r_279,2007-10-06,07/08,Premier League,,H,Manchester United,Wigan Athletic,win,2,0,90,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Manchester United
+r_278,2007-10-02,07/08,Champs League,Group,H,Manchester United,Roma,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_277,2007-09-29,07/08,Premier League,,A,Birmingham City,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_276,2007-09-23,07/08,Premier League,,H,Manchester United,Chelsea,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_275,2007-09-19,07/08,Champs League,Group,A,Sporting CP,Manchester United,win,1,0,87,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_274,2007-09-15,07/08,Premier League,,A,Everton,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_273,2007-09-12,07/08,Euros Qualifier,,H,Portugal,Serbia,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_272,2007-09-08,07/08,Euros Qualifier,,H,Portugal,Poland,draw,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Portugal
+r_271,2007-08-22,07/08,Euros Qualifier,,A,Armenia,Portugal,draw,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_270,2007-08-15,07/08,Premier League,,A,Portsmouth,Manchester United,draw,0,0,85,,,,,,,Ronaldo,Manchester United
+r_269,2007-08-12,07/08,Premier League,,H,Manchester United,Reading,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_268,2007-08-05,07/08,FA Community Shield,Final,N,Manchester United,Chelsea,win,0,0,120,,,,,,,Ronaldo,Manchester United
+r_267,2007-05-19,06/07,FA Cup,Final,N,Manchester United,Chelsea,loss,0,0,120,,,,,,,Ronaldo,Manchester United
+r_266,2007-05-13,06/07,Premier League,,H,Manchester United,West Ham United,loss,0,0,32,,,,,,,Ronaldo,Manchester United
+r_265,2007-05-05,06/07,Premier League,,A,Manchester City,Manchester United,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_264,2007-05-02,06/07,Champs League,SF,A,AC Milan,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_263,2007-04-28,06/07,Premier League,,A,Everton,Manchester United,win,0,0,27,,,,,,,Ronaldo,Manchester United
+r_262,2007-04-24,06/07,Champs League,SF,H,Manchester United,AC Milan,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_261,2007-04-21,06/07,Premier League,,H,Manchester United,Middlesbrough,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_260,2007-04-17,06/07,Premier League,,H,Manchester United,Sheffield United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_259,2007-04-14,06/07,FA Cup,SF,N,Manchester United,Watford,win,1,0,78,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_258,2007-04-10,06/07,Champs League,QF,H,Manchester United,Roma,win,2,1,90,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_257,2007-04-07,06/07,Premier League,,A,Portsmouth,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_256,2007-04-04,06/07,Champs League,QF,A,Roma,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_255,2007-03-31,06/07,Premier League,,H,Manchester United,Blackburn Rovers,win,0,0,84,,,,,,,Ronaldo,Manchester United
+r_254,2007-03-28,06/07,Euros Qualifier,,A,Serbia,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_253,2007-03-24,06/07,Euros Qualifier,,H,Portugal,Belgium,win,2,1,78,,,,,,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 header goal",Ronaldo,Portugal
+r_252,2007-03-19,06/07,FA Cup,QF,H,Manchester United,Middlesbrough,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_251,2007-03-17,06/07,Premier League,,H,Manchester United,Bolton Wanderers,win,0,2,70,,,,,,,Ronaldo,Manchester United
+r_250,2007-03-10,06/07,FA Cup,QF,A,Middlesbrough,Manchester United,draw,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_249,2007-03-07,06/07,Champs League,R16,H,Manchester United,Lille,win,0,1,82,,,,,,,Ronaldo,Manchester United
+r_248,2007-03-03,06/07,Premier League,,A,Liverpool,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_247,2007-02-27,06/07,FA Cup,R16,A,Reading,Manchester United,win,0,0,2,,,,,,,Ronaldo,Manchester United
+r_246,2007-02-24,06/07,Premier League,,A,Fulham,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_245,2007-02-20,06/07,Champs League,R16,A,Lille,Manchester United,win,0,0,67,,,,,,,Ronaldo,Manchester United
+r_244,2007-02-17,06/07,FA Cup,R16,H,Manchester United,Reading,draw,0,1,90,,,,,,,Ronaldo,Manchester United
+r_243,2007-02-06,06/07,International Friendly,,N,Portugal,Brazil,win,0,0,63,,,,,,,Ronaldo,Portugal
+r_242,2007-02-04,06/07,Premier League,,A,Tottenham Hotspur,Manchester United,win,1,1,68,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_241,2007-01-31,06/07,Premier League,,H,Manchester United,Watford,win,1,1,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_240,2007-01-21,06/07,Premier League,,A,Arsenal,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_239,2007-01-13,06/07,Premier League,,H,Manchester United,Aston Villa,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_238,2007-01-07,06/07,FA Cup,R64,H,Manchester United,Aston Villa,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_237,2007-01-01,06/07,Premier League,,A,Newcastle United,Manchester United,draw,0,1,90,,,,,,,Ronaldo,Manchester United
+r_236,2006-12-30,06/07,Premier League,,H,Manchester United,Reading,win,2,1,78,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_235,2006-12-26,06/07,Premier League,,H,Manchester United,Wigan Athletic,win,2,0,45,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal, 1 pen missed",Ronaldo,Manchester United
+r_234,2006-12-23,06/07,Premier League,,A,Aston Villa,Manchester United,win,2,0,90,,,,,,"2 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_233,2006-12-17,06/07,Premier League,,A,West Ham United,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_232,2006-12-09,06/07,Premier League,,H,Manchester United,Manchester City,win,1,1,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_231,2006-12-06,06/07,Champs League,Group,H,Manchester United,Benfica,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_230,2006-12-02,06/07,Premier League,,A,Middlesbrough,Manchester United,win,0,0,86,,,,,,,Ronaldo,Manchester United
+r_229,2006-11-29,06/07,Premier League,,H,Manchester United,Everton,win,1,0,68,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_228,2006-11-26,06/07,Premier League,,H,Manchester United,Chelsea,draw,0,0,86,,,,,,,Ronaldo,Manchester United
+r_227,2006-11-21,06/07,Champs League,Group,A,Celtic,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_226,2006-11-18,06/07,Premier League,,A,Sheffield United,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_225,2006-11-15,06/07,Euros Qualifier,,H,Portugal,Kazakhstan,win,1,0,58,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Portugal
+r_224,2006-11-11,06/07,Premier League,,A,Blackburn Rovers,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_223,2006-11-07,06/07,League Cup,R16,A,Southend United,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_222,2006-11-04,06/07,Premier League,,H,Manchester United,Portsmouth,win,1,0,75,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_221,2006-11-01,06/07,Champs League,Group,A,FC Copenhagen,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_220,2006-10-28,06/07,Premier League,,A,Bolton Wanderers,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_219,2006-10-17,06/07,Champs League,Group,H,Manchester United,FC Copenhagen,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_218,2006-10-11,06/07,Euros Qualifier,,A,Poland,Portugal,loss,0,0,90,,,,,,,Ronaldo,Portugal
+r_217,2006-10-07,06/07,Euros Qualifier,,H,Portugal,Azerbaijan,win,2,0,73,,,,,,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Portugal
+r_216,2006-10-01,06/07,Premier League,,H,Manchester United,Newcastle United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_215,2006-09-26,06/07,Champs League,Group,A,Benfica,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_214,2006-09-23,06/07,Premier League,,A,Reading,Manchester United,draw,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_213,2006-09-17,06/07,Premier League,,H,Manchester United,Arsenal,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_212,2006-09-09,06/07,Premier League,,H,Manchester United,Tottenham Hotspur,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_211,2006-09-06,06/07,Euros Qualifier,,A,Finland,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_210,2006-09-01,06/07,International Friendly,,A,Denmark,Portugal,loss,0,1,66,,,,,,1 pen missed,Ronaldo,Portugal
+r_209,2006-08-26,06/07,Premier League,,A,Watford,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_208,2006-08-23,06/07,Premier League,,A,Charlton Athletic,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_207,2006-08-20,06/07,Premier League,,H,Manchester United,Fulham,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_206,2006-07-08,05/06,World Cup,3rd P/O,A,Germany,Portugal,loss,0,0,90,6.6,5.0,2.0,3.0,No,,Ronaldo,Portugal
+r_205,2006-07-05,05/06,World Cup,SF,N,Portugal,France,loss,0,0,90,7.2,4.0,1.0,3.0,No,,Ronaldo,Portugal
+r_204,2006-07-01,05/06,World Cup,QF,N,Portugal,England,win,0,0,120,6.8,6.0,2.0,0.0,No,,Ronaldo,Portugal
+r_203,2006-06-25,05/06,World Cup,R16,N,Portugal,Netherlands,win,0,0,34,6.6,0.0,0.0,0.0,No,,Ronaldo,Portugal
+r_202,2006-06-17,05/06,World Cup,Group,N,Portugal,Iran,win,1,0,90,7.8,7.0,3.0,2.0,No,"1 pen goal, 1 right foot goal",Ronaldo,Portugal
+r_201,2006-06-11,05/06,World Cup,Group,N,Portugal,Angola,win,0,0,60,6.5,4.0,1.0,0.0,No,,Ronaldo,Portugal
+r_200,2006-06-03,05/06,International Friendly,,N,Portugal,Luxembourg,win,0,0,70,,,,,,,Ronaldo,Portugal
+r_199,2006-05-27,05/06,International Friendly,,H,Portugal,Cape Verde,win,0,0,61,,,,,,,Ronaldo,Portugal
+r_198,2006-05-07,05/06,Premier League,,H,Manchester United,Charlton Athletic,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_197,2006-05-01,05/06,Premier League,,H,Manchester United,Middlesbrough,draw,0,0,34,,,,,,,Ronaldo,Manchester United
+r_196,2006-04-29,05/06,Premier League,,A,Chelsea,Manchester United,loss,0,0,64,,,,,,,Ronaldo,Manchester United
+r_195,2006-04-17,05/06,Premier League,,A,Tottenham Hotspur,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_194,2006-04-14,05/06,Premier League,,H,Manchester United,Sunderland,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_193,2006-04-09,05/06,Premier League,,H,Manchester United,Arsenal,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_192,2006-04-01,05/06,Premier League,,A,Bolton Wanderers,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_191,2006-03-29,05/06,Premier League,,H,Manchester United,West Ham United,win,0,0,87,,,,,,,Ronaldo,Manchester United
+r_190,2006-03-26,05/06,Premier League,,H,Manchester United,Birmingham City,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_189,2006-03-18,05/06,Premier League,,A,West Bromwich Albion,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_188,2006-03-12,05/06,Premier League,,H,Manchester United,Newcastle United,win,0,0,75,,,,,,,Ronaldo,Manchester United
+r_187,2006-03-06,05/06,Premier League,,A,Wigan Athletic,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_186,2006-03-01,05/06,International Friendly,,N,Portugal,Saudi Arabia,win,2,0,90,,,,,,"2 inside box goal, 1 left foot goal, 1 header goal",Ronaldo,Portugal
+r_185,2006-02-26,05/06,League Cup,Final,N,Manchester United,Wigan Athletic,win,1,0,73,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_184,2006-02-18,05/06,FA Cup,R16,A,Liverpool,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_183,2006-02-11,05/06,Premier League,,A,Portsmouth,Manchester United,win,2,0,90,,,,,,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_182,2006-02-04,05/06,Premier League,,H,Manchester United,Fulham,win,2,0,90,,,,,,"1 free kick goal, 1 inside box goal, 2 right foot goal",Ronaldo,Manchester United
+r_181,2006-02-01,05/06,Premier League,,A,Blackburn Rovers,Manchester United,loss,0,1,90,,,,,,,Ronaldo,Manchester United
+r_180,2006-01-14,05/06,Premier League,,A,Manchester City,Manchester United,loss,0,0,66,,,,,,,Ronaldo,Manchester United
+r_179,2006-01-11,05/06,League Cup,SF,A,Blackburn Rovers,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_178,2006-01-08,05/06,FA Cup,R64,A,Burton Albion,Manchester United,draw,0,0,31,,,,,,,Ronaldo,Manchester United
+r_177,2006-01-03,05/06,Premier League,,A,Arsenal,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_176,2005-12-31,05/06,Premier League,,H,Manchester United,Bolton Wanderers,win,2,0,90,,,,,,"2 inside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Manchester United
+r_175,2005-12-28,05/06,Premier League,,A,Birmingham City,Manchester United,draw,0,0,83,,,,,,,Ronaldo,Manchester United
+r_174,2005-12-20,05/06,League Cup,QF,A,Birmingham City,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_173,2005-12-17,05/06,Premier League,,A,Aston Villa,Manchester United,win,0,0,28,,,,,,,Ronaldo,Manchester United
+r_172,2005-12-14,05/06,Premier League,,H,Manchester United,Wigan Athletic,win,0,0,20,,,,,,,Ronaldo,Manchester United
+r_171,2005-12-11,05/06,Premier League,,H,Manchester United,Everton,draw,0,0,26,,,,,,,Ronaldo,Manchester United
+r_170,2005-12-07,05/06,Champs League,Group,A,Benfica,Manchester United,loss,0,0,67,,,,,,,Ronaldo,Manchester United
+r_169,2005-12-03,05/06,Premier League,,H,Manchester United,Portsmouth,win,0,1,25,,,,,,,Ronaldo,Manchester United
+r_168,2005-11-30,05/06,League Cup,R16,H,Manchester United,West Bromwich Albion,win,1,0,90,,,,,,"1 pen goal, 1 right foot goal",Ronaldo,Manchester United
+r_167,2005-11-22,05/06,Champs League,Group,H,Manchester United,Villarreal,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_166,2005-11-19,05/06,Premier League,,A,Charlton Athletic,Manchester United,win,0,0,75,,,,,,,Ronaldo,Manchester United
+r_165,2005-11-15,05/06,International Friendly,,A,Northern Ireland,Portugal,draw,0,0,68,,,,,,,Ronaldo,Portugal
+r_164,2005-11-12,05/06,International Friendly,,H,Portugal,Croatia,win,0,1,76,,,,,,,Ronaldo,Portugal
+r_163,2005-11-06,05/06,Premier League,,H,Manchester United,Chelsea,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_162,2005-11-02,05/06,Champs League,Group,A,Lille,Manchester United,loss,0,0,89,,,,,,,Ronaldo,Manchester United
+r_161,2005-10-29,05/06,Premier League,,A,Middlesbrough,Manchester United,loss,1,0,30,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_160,2005-10-22,05/06,Premier League,,H,Manchester United,Tottenham Hotspur,draw,0,0,15,,,,,,,Ronaldo,Manchester United
+r_159,2005-10-18,05/06,Champs League,Group,H,Manchester United,Lille,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_158,2005-10-15,05/06,Premier League,,A,Sunderland,Manchester United,win,0,0,89,,,,,,,Ronaldo,Manchester United
+r_157,2005-10-12,05/06,World Cup Qualifier,,H,Portugal,Latvia,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_156,2005-10-08,05/06,World Cup Qualifier,,H,Portugal,Liechtenstein,win,0,1,84,,,,,,,Ronaldo,Portugal
+r_155,2005-10-01,05/06,Premier League,,A,Fulham,Manchester United,win,0,0,13,,,,,,,Ronaldo,Manchester United
+r_154,2005-09-27,05/06,Champs League,Group,H,Manchester United,Benfica,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_153,2005-09-24,05/06,Premier League,,H,Manchester United,Blackburn Rovers,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_152,2005-09-18,05/06,Premier League,,A,Liverpool,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_151,2005-09-14,05/06,Champs League,Group,A,Villarreal,Manchester United,draw,0,0,80,,,,,,,Ronaldo,Manchester United
+r_150,2005-09-07,05/06,World Cup Qualifier,,A,Russia,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_149,2005-09-03,05/06,World Cup Qualifier,,H,Portugal,Luxembourg,win,0,0,62,,,,,,,Ronaldo,Portugal
+r_148,2005-08-28,05/06,Premier League,,A,Newcastle United,Manchester United,win,0,0,85,,,,,,,Ronaldo,Manchester United
+r_147,2005-08-24,05/06,Champions League Qualifying,Qualifier,A,Debrecen,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_146,2005-08-20,05/06,Premier League,,H,Manchester United,Aston Villa,win,0,0,31,,,,,,,Ronaldo,Manchester United
+r_145,2005-08-09,05/06,Champions League Qualifying,Qualifier,H,Manchester United,Debrecen,win,1,0,67,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_144,2005-06-08,04/05,World Cup Qualifier,,A,Estonia,Portugal,win,1,0,88,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_143,2005-06-04,04/05,World Cup Qualifier,,H,Portugal,Slovakia,win,1,0,77,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Portugal
+r_142,2005-05-21,04/05,FA Cup,Final,N,Manchester United,Arsenal,loss,0,0,120,,,,,,,Ronaldo,Manchester United
+r_141,2005-05-10,04/05,Premier League,,H,Manchester United,Chelsea,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_140,2005-05-07,04/05,Premier League,,H,Manchester United,West Bromwich Albion,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_139,2005-04-24,04/05,Premier League,,H,Manchester United,Newcastle United,win,0,0,54,,,,,,,Ronaldo,Manchester United
+r_138,2005-04-20,04/05,Premier League,,A,Everton,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_137,2005-04-17,04/05,FA Cup,SF,N,Manchester United,Newcastle United,win,1,2,78,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_136,2005-04-09,04/05,Premier League,,A,Norwich City,Manchester United,loss,0,0,69,,,,,,,Ronaldo,Manchester United
+r_135,2005-04-02,04/05,Premier League,,H,Manchester United,Blackburn Rovers,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_134,2005-03-30,04/05,World Cup Qualifier,,A,Slovakia,Portugal,draw,0,0,90,,,,,,,Ronaldo,Portugal
+r_133,2005-03-26,04/05,International Friendly,,H,Portugal,Canada,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_132,2005-03-19,04/05,Premier League,,H,Manchester United,Fulham,win,1,0,90,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_131,2005-03-12,04/05,FA Cup,QF,A,Southampton,Manchester United,win,1,0,68,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_130,2005-03-08,04/05,Champs League,R16,A,AC Milan,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_129,2005-03-05,04/05,Premier League,,A,Crystal Palace,Manchester United,draw,0,0,35,,,,,,,Ronaldo,Manchester United
+r_128,2005-02-26,04/05,Premier League,,H,Manchester United,Portsmouth,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_127,2005-02-23,04/05,Champs League,R16,H,Manchester United,AC Milan,loss,0,0,63,,,,,,,Ronaldo,Manchester United
+r_126,2005-02-19,04/05,FA Cup,R16,A,Everton,Manchester United,win,1,1,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_125,2005-02-13,04/05,Premier League,,A,Manchester City,Manchester United,win,0,0,58,,,,,,,Ronaldo,Manchester United
+r_124,2005-02-09,04/05,International Friendly,,A,Republic of Ireland,Portugal,loss,0,0,70,,,,,,,Ronaldo,Portugal
+r_123,2005-02-05,04/05,Premier League,,H,Manchester United,Birmingham City,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_122,2005-02-01,04/05,Premier League,,A,Arsenal,Manchester United,win,2,0,71,,,,,,"2 inside box goal, 2 left foot goal",Ronaldo,Manchester United
+r_121,2005-01-29,04/05,FA Cup,R32,H,Manchester United,Middlesbrough,win,0,0,72,,,,,,,Ronaldo,Manchester United
+r_120,2005-01-26,04/05,League Cup,SF,H,Manchester United,Chelsea,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_119,2005-01-22,04/05,Premier League,,H,Manchester United,Aston Villa,win,1,0,90,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_118,2005-01-19,04/05,FA Cup,R64,A,Exeter City,Manchester United,win,1,0,90,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Manchester United
+r_117,2005-01-15,04/05,Premier League,,A,Liverpool,Manchester United,win,0,1,67,,,,,,,Ronaldo,Manchester United
+r_116,2005-01-12,04/05,League Cup,SF,A,Chelsea,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_115,2005-01-08,04/05,FA Cup,R64,H,Manchester United,Exeter City,draw,0,0,27,,,,,,,Ronaldo,Manchester United
+r_114,2005-01-04,04/05,Premier League,,H,Manchester United,Tottenham Hotspur,draw,0,0,83,,,,,,,Ronaldo,Manchester United
+r_113,2005-01-01,04/05,Premier League,,A,Middlesbrough,Manchester United,win,0,0,77,,,,,,,Ronaldo,Manchester United
+r_112,2004-12-28,04/05,Premier League,,A,Aston Villa,Manchester United,win,0,0,30,,,,,,,Ronaldo,Manchester United
+r_111,2004-12-26,04/05,Premier League,,H,Manchester United,Bolton Wanderers,win,0,1,69,,,,,,,Ronaldo,Manchester United
+r_110,2004-12-13,04/05,Premier League,,A,Fulham,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_109,2004-12-08,04/05,Champs League,Group,A,Fenerbahce,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_108,2004-12-04,04/05,Premier League,,H,Manchester United,Southampton,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_107,2004-11-27,04/05,Premier League,,A,West Bromwich Albion,Manchester United,win,0,0,19,,,,,,,Ronaldo,Manchester United
+r_106,2004-11-23,04/05,Champs League,Group,H,Manchester United,Lyon,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_105,2004-11-17,04/05,World Cup Qualifier,,A,Luxembourg,Portugal,win,1,0,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_104,2004-11-14,04/05,Premier League,,A,Newcastle United,Manchester United,win,0,0,83,,,,,,,Ronaldo,Manchester United
+r_103,2004-11-07,04/05,Premier League,,H,Manchester United,Manchester City,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_102,2004-11-03,04/05,Champs League,Group,H,Manchester United,Sparta Prague,win,0,0,69,,,,,,,Ronaldo,Manchester United
+r_101,2004-10-30,04/05,Premier League,,A,Portsmouth,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_100,2004-10-24,04/05,Premier League,,H,Manchester United,Arsenal,win,0,0,85,,,,,,,Ronaldo,Manchester United
+r_99,2004-10-19,04/05,Champs League,Group,A,Sparta Prague,Manchester United,draw,0,0,10,,,,,,,Ronaldo,Manchester United
+r_98,2004-10-16,04/05,Premier League,,A,Birmingham City,Manchester United,draw,0,0,76,,,,,,,Ronaldo,Manchester United
+r_97,2004-10-13,04/05,World Cup Qualifier,,H,Portugal,Russia,win,2,1,85,,,,,,"1 inside box goal, 1 outside box goal, 1 left foot goal, 1 right foot goal",Ronaldo,Portugal
+r_96,2004-10-09,04/05,World Cup Qualifier,,A,Liechtenstein,Portugal,draw,0,0,62,,,,,,,Ronaldo,Portugal
+r_95,2004-10-03,04/05,Premier League,,H,Manchester United,Middlesbrough,draw,0,1,90,,,,,,,Ronaldo,Manchester United
+r_94,2004-09-25,04/05,Premier League,,A,Tottenham Hotspur,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_93,2004-09-20,04/05,Premier League,,H,Manchester United,Liverpool,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_92,2004-09-15,04/05,Champs League,Group,A,Lyon,Manchester United,draw,0,1,90,,,,,,,Ronaldo,Manchester United
+r_91,2004-09-11,04/05,Premier League,,A,Bolton Wanderers,Manchester United,draw,0,0,26,,,,,,,Ronaldo,Manchester United
+r_90,2004-09-08,04/05,World Cup Qualifier,,H,Portugal,Estonia,win,1,2,90,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_89,2004-09-04,04/05,World Cup Qualifier,,A,Latvia,Portugal,win,1,1,82,,,,,,"1 inside box goal, 1 left foot goal",Ronaldo,Portugal
+r_88,2004-08-30,04/05,Premier League,,H,Manchester United,Everton,draw,0,0,81,,,,,,,Ronaldo,Manchester United
+r_87,2004-08-28,04/05,Premier League,,A,Blackburn Rovers,Manchester United,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_86,2004-08-25,04/05,Champions League Qualifying,Qualifier,H,Manchester United,Dinamo Bucharest,win,0,0,64,,,,,,,Ronaldo,Manchester United
+r_85,2004-08-21,04/05,Premier League,,H,Manchester United,Norwich City,win,0,0,6,,,,,,,Ronaldo,Manchester United
+r_84,2004-07-04,03/04,UEFA Euros,Final,H,Portugal,Greece,loss,0,0,90,,,,,,,Ronaldo,Portugal
+r_83,2004-06-30,03/04,UEFA Euros,SF,H,Portugal,Netherlands,win,1,1,67,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_82,2004-06-24,03/04,UEFA Euros,QF,H,Portugal,England,win,0,0,120,,,,,,,Ronaldo,Portugal
+r_81,2004-06-20,03/04,UEFA Euros,Group,H,Portugal,Spain,win,0,0,85,,,,,,,Ronaldo,Portugal
+r_80,2004-06-16,03/04,UEFA Euros,Group,H,Portugal,Russia,win,0,1,12,,,,,,,Ronaldo,Portugal
+r_79,2004-06-12,03/04,UEFA Euros,Group,H,Portugal,Greece,loss,1,0,45,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Portugal
+r_78,2004-06-05,03/04,International Friendly,,H,Portugal,Lithuania,win,0,0,26,,,,,,,Ronaldo,Portugal
+r_77,2004-05-29,03/04,International Friendly,,H,Portugal,Luxembourg,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_76,2004-05-22,03/04,FA Cup,Final,N,Manchester United,Millwall,win,1,0,84,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_75,2004-05-15,03/04,Premier League,,A,Aston Villa,Manchester United,win,1,0,85,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_74,2004-05-08,03/04,Premier League,,H,Manchester United,Chelsea,draw,0,0,87,,,,,,,Ronaldo,Manchester United
+r_73,2004-04-28,03/04,International Friendly,,H,Portugal,Sweden,draw,0,1,28,,,,,,,Ronaldo,Portugal
+r_72,2004-04-24,03/04,Premier League,,H,Manchester United,Liverpool,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_71,2004-04-20,03/04,Premier League,,H,Manchester United,Charlton Athletic,win,0,0,7,,,,,,,Ronaldo,Manchester United
+r_70,2004-04-17,03/04,Premier League,,A,Portsmouth,Manchester United,loss,0,0,32,,,,,,,Ronaldo,Manchester United
+r_69,2004-04-13,03/04,Premier League,,H,Manchester United,Leicester City,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_68,2004-04-10,03/04,Premier League,,A,Birmingham City,Manchester United,win,1,0,35,,,,,,"1 inside box goal, 1 header goal",Ronaldo,Manchester United
+r_67,2004-04-03,03/04,FA Cup,SF,N,Manchester United,Arsenal,win,0,0,84,,,,,,,Ronaldo,Manchester United
+r_66,2004-03-31,03/04,International Friendly,,H,Portugal,Italy,loss,0,0,45,,,,,,,Ronaldo,Portugal
+r_65,2004-03-20,03/04,Premier League,,H,Manchester United,Tottenham Hotspur,win,1,0,16,,,,,,"1 outside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_64,2004-03-14,03/04,Premier League,,A,Manchester City,Manchester United,loss,0,0,72,,,,,,,Ronaldo,Manchester United
+r_63,2004-03-09,03/04,Champs League,R16,H,Manchester United,FC Porto,draw,0,0,9,,,,,,,Ronaldo,Manchester United
+r_62,2004-03-06,03/04,FA Cup,QF,H,Manchester United,Fulham,win,0,1,88,,,,,,,Ronaldo,Manchester United
+r_61,2004-02-28,03/04,Premier League,,A,Fulham,Manchester United,draw,0,1,90,,,,,,,Ronaldo,Manchester United
+r_60,2004-02-25,03/04,Champs League,R16,A,FC Porto,Manchester United,loss,0,0,13,,,,,,,Ronaldo,Manchester United
+r_59,2004-02-18,03/04,International Friendly,,H,Portugal,England,draw,0,0,45,,,,,,,Ronaldo,Portugal
+r_58,2004-02-14,03/04,FA Cup,R16,H,Manchester United,Manchester City,win,1,0,90,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Manchester United
+r_57,2004-02-11,03/04,Premier League,,H,Manchester United,Middlesbrough,loss,0,0,27,,,,,,,Ronaldo,Manchester United
+r_56,2004-02-07,03/04,Premier League,,A,Everton,Manchester United,win,0,1,11,,,,,,,Ronaldo,Manchester United
+r_55,2004-01-31,03/04,Premier League,,H,Manchester United,Southampton,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_54,2004-01-25,03/04,FA Cup,R32,A,Northampton Town,Manchester United,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_53,2004-01-17,03/04,Premier League,,A,Wolverhampton Wanderers,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_52,2003-12-26,03/04,Premier League,,H,Manchester United,Everton,win,0,1,90,,,,,,,Ronaldo,Manchester United
+r_51,2003-12-21,03/04,Premier League,,A,Tottenham Hotspur,Manchester United,win,0,0,11,,,,,,,Ronaldo,Manchester United
+r_50,2003-12-13,03/04,Premier League,,H,Manchester United,Manchester City,win,0,0,16,,,,,,,Ronaldo,Manchester United
+r_49,2003-12-06,03/04,Premier League,,H,Manchester United,Aston Villa,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_48,2003-12-03,03/04,League Cup,R16,A,West Bromwich Albion,Manchester United,loss,0,0,77,,,,,,,Ronaldo,Manchester United
+r_47,2003-11-30,03/04,Premier League,,A,Chelsea,Manchester United,loss,0,0,19,,,,,,,Ronaldo,Manchester United
+r_46,2003-11-26,03/04,Champs League,Group,A,Panathinaikos,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_45,2003-11-22,03/04,Premier League,,H,Manchester United,Blackburn Rovers,win,0,0,18,,,,,,,Ronaldo,Manchester United
+r_44,2003-11-04,03/04,Champs League,Group,H,Manchester United,Glasgow Rangers,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_43,2003-11-01,03/04,Premier League,,H,Manchester United,Portsmouth,win,1,1,15,,,,,,"1 free kick goal, 1 right foot goal",Ronaldo,Manchester United
+r_42,2003-10-25,03/04,Premier League,,H,Manchester United,Fulham,loss,0,0,68,,,,,,,Ronaldo,Manchester United
+r_41,2003-10-18,03/04,Premier League,,A,Leeds United,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_40,2003-10-11,03/04,International Friendly,,H,Portugal,Albania,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_39,2003-10-01,03/04,Champs League,Group,A,VfB Stuttgart,Manchester United,loss,0,0,90,,,,,,,Ronaldo,Manchester United
+r_38,2003-09-21,03/04,Premier League,,H,Manchester United,Arsenal,draw,0,0,90,,,,,,,Ronaldo,Manchester United
+r_37,2003-09-13,03/04,Premier League,,A,Charlton Athletic,Manchester United,win,0,0,90,,,,,,,Ronaldo,Manchester United
+r_36,2003-08-31,03/04,Premier League,,A,Southampton,Manchester United,loss,0,0,24,,,,,,,Ronaldo,Manchester United
+r_35,2003-08-27,03/04,Premier League,,H,Manchester United,Wolverhampton Wanderers,win,0,0,66,,,,,,,Ronaldo,Manchester United
+r_34,2003-08-23,03/04,Premier League,,A,Newcastle United,Manchester United,win,0,0,14,,,,,,,Ronaldo,Manchester United
+r_33,2003-08-20,03/04,International Friendly,,H,Portugal,Kazakhstan,win,0,0,45,,,,,,,Ronaldo,Portugal
+r_32,2003-08-16,03/04,Premier League,,H,Manchester United,Bolton Wanderers,win,0,0,29,,,,,,,Ronaldo,Manchester United
+r_31,2003-06-01,02/03,Primeira Liga,,A,FC Porto,Sporting CP,loss,0,0,71,,,,,,,Ronaldo,Sporting CP
+r_30,2003-05-24,02/03,Primeira Liga,,H,Sporting CP,Vitoria Setubal,loss,0,0,62,,,,,,,Ronaldo,Sporting CP
+r_29,2003-05-17,02/03,Primeira Liga,,A,Nacional da Madeira,Sporting CP,draw,0,0,90,,,,,,,Ronaldo,Sporting CP
+r_28,2003-05-12,02/03,Primeira Liga,,H,Sporting CP,Leiria,draw,0,0,26,,,,,,,Ronaldo,Sporting CP
+r_27,2003-04-25,02/03,Primeira Liga,,H,Sporting CP,Beira-Mar,draw,0,0,10,,,,,,,Ronaldo,Sporting CP
+r_26,2003-04-19,02/03,Primeira Liga,,A,Maritimo de Funchal,Sporting CP,win,0,0,15,,,,,,,Ronaldo,Sporting CP
+r_25,2003-04-06,02/03,Primeira Liga,,H,Sporting CP,Vitoria Guimaraes,draw,0,0,23,,,,,,,Ronaldo,Sporting CP
+r_24,2003-03-21,02/03,Primeira Liga,,A,Gil Vicente,Sporting CP,loss,0,0,4,,,,,,,Ronaldo,Sporting CP
+r_23,2003-03-16,02/03,Primeira Liga,,H,Sporting CP,Boavista,draw,0,0,29,,,,,,,Ronaldo,Sporting CP
+r_22,2003-03-08,02/03,Taça de Portugal,QF,H,Sporting CP,Naval,loss,0,0,90,,,,,,,Ronaldo,Sporting CP
+r_21,2003-03-01,02/03,Primeira Liga,,A,Belenenses,Sporting CP,draw,0,0,5,,,,,,,Ronaldo,Sporting CP
+r_20,2003-02-05,02/03,Primeira Liga,,H,Sporting CP,Académica,win,0,0,31,,,,,,,Ronaldo,Sporting CP
+r_19,2003-01-25,02/03,Primeira Liga,,A,Santa Clara,Sporting CP,win,0,0,45,,,,,,,Ronaldo,Sporting CP
+r_18,2003-01-11,02/03,Primeira Liga,,H,Sporting CP,FC Porto,loss,0,0,19,,,,,,,Ronaldo,Sporting CP
+r_17,2003-01-04,02/03,Primeira Liga,,A,Vitoria Setubal,Sporting CP,win,0,0,22,,,,,,,Ronaldo,Sporting CP
+r_16,2002-12-22,02/03,Primeira Liga,,H,Sporting CP,Nacional da Madeira,win,0,0,15,,,,,,,Ronaldo,Sporting CP
+r_15,2002-12-18,02/03,Taça de Portugal,R16,H,Sporting CP,FC Oliveira do Hospital,win,1,0,53,,,,,,"1 outside box goal, 1 left foot goal",Ronaldo,Sporting CP
+r_14,2002-12-14,02/03,Primeira Liga,,A,Leiria,Sporting CP,loss,0,2,90,,,,,,,Ronaldo,Sporting CP
+r_13,2002-12-07,02/03,Primeira Liga,,H,Sporting CP,Benfica,loss,0,0,54,,,,,,,Ronaldo,Sporting CP
+r_12,2002-11-30,02/03,Primeira Liga,,A,Beira-Mar,Sporting CP,win,0,1,10,,,,,,,Ronaldo,Sporting CP
+r_11,2002-11-24,02/03,Taça de Portugal,R32,H,Sporting CP,Estarreja,win,1,0,29,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Sporting CP
+r_10,2002-11-15,02/03,Primeira Liga,,H,Sporting CP,Maritimo de Funchal,win,0,0,74,,,,,,,Ronaldo,Sporting CP
+r_9,2002-11-08,02/03,Primeira Liga,,A,Vitoria Guimaraes,Sporting CP,win,0,1,89,,,,,,,Ronaldo,Sporting CP
+r_8,2002-11-02,02/03,Primeira Liga,,H,Sporting CP,Gil Vicente,loss,0,0,90,,,,,,,Ronaldo,Sporting CP
+r_7,2002-10-26,02/03,Primeira Liga,,A,Boavista,Sporting CP,win,1,0,8,,,,,,"1 inside box goal, 1 right foot goal",Ronaldo,Sporting CP
+r_6,2002-10-20,02/03,Primeira Liga,,H,Sporting CP,Belenenses,win,0,0,76,,,,,,,Ronaldo,Sporting CP
+r_5,2002-10-07,02/03,Primeira Liga,,H,Sporting CP,Moreirense,win,2,0,90,,,,,,"2 inside box goal, 1 right foot goal, 1 header goal",Ronaldo,Sporting CP
+r_4,2002-10-03,02/03,UEFA Cup,R96,A,Partizan Belgrade,Sporting CP,draw,0,0,74,,,,,,,Ronaldo,Sporting CP
+r_3,2002-09-30,02/03,Primeira Liga,,A,Sporting Braga,Sporting CP,loss,0,0,21,,,,,,,Ronaldo,Sporting CP
+r_2,2002-09-19,02/03,UEFA Cup,R96,H,Sporting CP,Partizan Belgrade,loss,0,0,45,,,,,,,Ronaldo,Sporting CP
+r_1,2002-08-14,02/03,Champions League Qualifying,Qualifier,H,Sporting CP,Inter Milan,draw,0,0,32,,,,,,,Ronaldo,Sporting CP
