@@ -1,1 +1,11 @@
+http://cs.gettysburg.edu/~estrke01/cs360/dashboard/
 
+
+If you go to this link you could create a account and add locations to it then go to the crime tab and see crime happening nearby.
+However, currently this only has Chicago data, so only Chicago data is displayed other locations can be added but no data will be displayed of crime. 
+I would recomend using an account I made that already has locations: 
+
+Email: user@gmail.com
+Passowrd: password 
+
+Another note, I did not give all the files since it would be alot of html and css. So I gave the part that displays the crime data, retrives data from "https://data.cityofchicago.org/resource/6zsd-86xi.json", and also what cleans up data. 
